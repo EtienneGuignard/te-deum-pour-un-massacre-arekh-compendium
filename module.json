@@ -1,0 +1,84 @@
+{
+  "id": "te-deum-pour-un-massacre-arekh-compendium",
+  "title": "Te deum pour un massacre Arekh Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Arekh",
+      "discord": "arekh_",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "blessure",
+      "label": "Blessures",
+      "path": "packs/blessure",
+      "type": "Item",
+      "system": "fvtt-te-deum",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "actor",
+      "label": "Personnages",
+      "path": "packs/actor",
+      "type": "Actor",
+      "system": "fvtt-te-deum",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "scene",
+      "label": "Scenes",
+      "path": "packs/scene",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "adventure",
+      "label": "Adventures",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "system": "fvtt-te-deum",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "objet",
+      "label": "Equipements",
+      "path": "packs/objet",
+      "type": "Item",
+      "system": "fvtt-te-deum",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cosmographie",
+      "label": "Cosmographie",
+      "path": "packs/cosmographie",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "",
+  "flags": {}
+}
