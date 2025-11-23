@@ -1,0 +1,109 @@
+{
+  "name": "Katana",
+  "type": "arme",
+  "img": "systems/fvtt-te-deum/images/icons/arme_melee.webp",
+  "system": {
+    "typeArme": "melee",
+    "allonge": "moyenne",
+    "specificites": {
+      "poing": {
+        "hasSpec": false
+      },
+      "pied": {
+        "hasSpec": false
+      },
+      "encombrante": {
+        "hasSpec": false
+      },
+      "maintiendistance": {
+        "hasSpec": false
+      },
+      "coupassomant": {
+        "hasSpec": false
+      },
+      "peutlancer": {
+        "hasSpec": false
+      },
+      "pasboutportant": {
+        "hasSpec": false
+      },
+      "mitraille": {
+        "hasSpec": false
+      },
+      "degatscharge": {
+        "hasSpec": false
+      },
+      "crochecavalier": {
+        "hasSpec": false
+      },
+      "coupfaucheur": {
+        "hasSpec": false
+      },
+      "briselances": {
+        "hasSpec": false
+      },
+      "pasbrisemaingaucheespagnole": {
+        "hasSpec": true
+      },
+      "peutbriser": {
+        "hasSpec": false
+      }
+    },
+    "portees": {
+      "brulepourpoint": {
+        "value": 0
+      },
+      "courte": {
+        "value": 0
+      },
+      "moyenne": {
+        "value": 0
+      },
+      "longue": {
+        "value": 0
+      },
+      "extreme": {
+        "value": 0
+      }
+    },
+    "degatsArmure": {
+      "sansarmure": 1,
+      "cuir": 0,
+      "plates": 0,
+      "mailles": 0
+    },
+    "tempsRecharge": 0,
+    "competenceRecharge": "aucune",
+    "valeurEchecCritique": 1,
+    "initiativeBonus": 0,
+    "degats": "1d10",
+    "degatscrosse": "0",
+    "competence": "escrime",
+    "competence2": "escrime",
+    "prix": 0,
+    "monnaie": "1",
+    "equipe": false,
+    "description": "<p>e <em><strong>katana</strong></em> (<span class=\"lang-ja\" lang=\"ja\" title=\"Japonais\">刀 <span class=\"lang-fr\" lang=\"fr\">ou</span> かたな</span><span class=\"t_nihongo_help noprint\"><span class=\"t_nihongo_icon\"><sup><a title=\"Aide:Japonais\" href=\"https://fr.wikipedia.org/wiki/Aide:Japonais\">?</a></sup></span></span>) est un <a class=\"mw-redirect\" title=\"Sabre (arme)\" href=\"https://fr.wikipedia.org/wiki/Sabre_(arme)\">sabre</a> (<a title=\"Arme blanche\" href=\"https://fr.wikipedia.org/wiki/Arme_blanche\">arme blanche</a> courbe à un seul tranchant) dont la lame fait plus de 60,6 <abbr class=\"abbr\" title=\"centimètre\">cm.</abbr><sup id=\"cite_ref-1\" class=\"reference\"></sup></p>\n<p>Symbole de la <a title=\"Caste\" href=\"https://fr.wikipedia.org/wiki/Caste\">caste</a> des <a title=\"Samouraï\" href=\"https://fr.wikipedia.org/wiki/Samoura%C3%AF\">samouraïs</a>, le <em>katana</em> est une arme de <a title=\"Estoc et taille\" href=\"https://fr.wikipedia.org/wiki/Estoc_et_taille\">taille</a> (dont on utilise le tranchant) et d'<a title=\"Estoc et taille\" href=\"https://fr.wikipedia.org/wiki/Estoc_et_taille\">estoc</a> (dont on utilise la pointe) à deux mains. Il est porté glissé dans la ceinture, tranchant dirigé vers le haut à la ceinture du côté gauche (vers le bas aussi si le porteur est un cavalier). L'ensemble <em><a title=\"Wakizashi\" href=\"https://fr.wikipedia.org/wiki/Wakizashi\">wakizashi</a>-katana</em> s'appelle le <em><a href=\"https://fr.wikipedia.org/wiki/Daish%C5%8D\">daishō</a></em>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "NLQVhS9RJ3bE5C95": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1763736200727,
+    "modifiedTime": 1763736200727,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_id": "t6UJmd5JM50yF6gM",
+  "sort": 0,
+  "_key": "!items!t6UJmd5JM50yF6gM"
+}

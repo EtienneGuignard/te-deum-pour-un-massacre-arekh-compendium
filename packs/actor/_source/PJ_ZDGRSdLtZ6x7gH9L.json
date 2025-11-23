@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": "PvCryGR8TQPeIElj",
+  "name": "PJ",
+  "color": null,
+  "sorting": "a",
+  "_id": "ZDGRSdLtZ6x7gH9L",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1763735997981,
+    "modifiedTime": 1763735997981,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_key": "!folders!ZDGRSdLtZ6x7gH9L"
+}

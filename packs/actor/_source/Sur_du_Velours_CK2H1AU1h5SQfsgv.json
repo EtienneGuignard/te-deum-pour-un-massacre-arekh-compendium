@@ -1,0 +1,23 @@
+{
+  "name": "Sur du Velours",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "CK2H1AU1h5SQfsgv",
+  "description": "",
+  "sort": 600000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1763735996090,
+    "modifiedTime": 1763735996670,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_key": "!folders!CK2H1AU1h5SQfsgv"
+}

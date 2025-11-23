@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": null,
+  "name": "Le choix du destin",
+  "color": null,
+  "sorting": "a",
+  "_id": "dYPsh2AUEj3vsuYz",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1763735974777,
+    "modifiedTime": 1763735974777,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_key": "!folders!dYPsh2AUEj3vsuYz"
+}
