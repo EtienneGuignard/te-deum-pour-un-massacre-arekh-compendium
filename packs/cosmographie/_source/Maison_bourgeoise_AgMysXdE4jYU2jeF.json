@@ -1,0 +1,64 @@
+{
+  "name": "Maison bourgeoise",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Maison bourgeoise, Renaissance",
+      "type": "image",
+      "_id": "myQqM4SkaIQYDjP8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": "Maison bourgeoise situer à Langres d'inspiration italienne"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "artwork/Te%20deum%20pour%20un%20massacre/enviroments/Maison_Renaissance%2C_Langres_2013.JPG",
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "_key": "!journal.pages!AgMysXdE4jYU2jeF.myQqM4SkaIQYDjP8"
+    }
+  ],
+  "folder": "aZwUXu77v4ks2kXX",
+  "ownership": {
+    "default": 0,
+    "eEIYuKsSHSBNY69g": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1762969095013,
+    "modifiedTime": 1762969097159,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "categories": [],
+  "_id": "AgMysXdE4jYU2jeF",
+  "sort": 200000,
+  "_key": "!journal!AgMysXdE4jYU2jeF"
+}

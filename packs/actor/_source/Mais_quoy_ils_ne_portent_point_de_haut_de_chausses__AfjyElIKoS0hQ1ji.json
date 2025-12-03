@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": null,
+  "name": "Mais quoy ils ne portent point de haut de chausses!",
+  "color": null,
+  "sorting": "a",
+  "_id": "AfjyElIKoS0hQ1ji",
+  "description": "",
+  "sort": 2600000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1764718123269,
+    "modifiedTime": 1764718124525,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_key": "!folders!AfjyElIKoS0hQ1ji"
+}

@@ -1,0 +1,482 @@
+{
+  "name": "Mode",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "henri II",
+      "type": "image",
+      "_id": "fiULLIeiGWNykSHP",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Te%20Deum%20-%20Societes%20et%20Etats-131.png",
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.fiULLIeiGWNykSHP"
+    },
+    {
+      "sort": 200000,
+      "name": "Charles IX",
+      "type": "image",
+      "_id": "zWkCpimoWNE2PrUZ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Te%20Deum%20-%20Societes%20et%20Etats-132.png",
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.zWkCpimoWNE2PrUZ"
+    },
+    {
+      "sort": 0,
+      "name": "Henti II",
+      "type": "image",
+      "_id": "TXGr9Eq8faJsv87g",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Te%20Deum%20-%20Societes%20et%20Etats-130.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.TXGr9Eq8faJsv87g"
+    },
+    {
+      "sort": 300000,
+      "name": "Charles IX",
+      "type": "image",
+      "_id": "cEohmNYPMh14bone",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Te%20Deum%20-%20Societes%20et%20Etats-133.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.cEohmNYPMh14bone"
+    },
+    {
+      "sort": 400000,
+      "name": "Hennri III",
+      "type": "image",
+      "_id": "9JXhYJvkZkdBwIPO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Te%20Deum%20-%20Societes%20et%20Etats-134.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.9JXhYJvkZkdBwIPO"
+    },
+    {
+      "sort": 500000,
+      "name": "Henri III",
+      "type": "image",
+      "_id": "qJxxIPIYKfTzwgko",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Te%20Deum%20-%20Societes%20et%20Etats-135.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.qJxxIPIYKfTzwgko"
+    },
+    {
+      "sort": 600000,
+      "name": "Costume Populaire",
+      "type": "image",
+      "_id": "iqkpEwL8OUhBla4Q",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Te%20Deum%20-%20Societes%20et%20Etats-138.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.iqkpEwL8OUhBla4Q"
+    },
+    {
+      "sort": 700000,
+      "name": "Costume pop",
+      "type": "image",
+      "_id": "qjx0rEEroII1V4Wc",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Te%20Deum%20-%20Societes%20et%20Etats-139.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.qjx0rEEroII1V4Wc"
+    },
+    {
+      "sort": 800000,
+      "name": "Costume peuple",
+      "type": "image",
+      "_id": "UEcypZXda39yAPgO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/costume-france-peuple-1-5dsr_14933.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.UEcypZXda39yAPgO"
+    },
+    {
+      "sort": 800000,
+      "name": "Costume peuple",
+      "type": "image",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/costume-france-peuple-2-5dsr_14933.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_id": "Nc5VaYl7ml9ntnkE",
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.Nc5VaYl7ml9ntnkE"
+    },
+    {
+      "sort": 800000,
+      "name": "Costume peuple",
+      "type": "image",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/costume-france-peuple-3-5dsr_14933.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_id": "lMneMW10tCCCdg8G",
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.lMneMW10tCCCdg8G"
+    },
+    {
+      "sort": 800000,
+      "name": "Costume peuple",
+      "type": "image",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/costume-france-peuple-4-5dsr_14933.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "_id": "AtqG1g2YKPuW4aES",
+      "_key": "!journal.pages!rHv1g5npdvg8aAX9.AtqG1g2YKPuW4aES"
+    }
+  ],
+  "folder": null,
+  "ownership": {
+    "default": 2,
+    "eEIYuKsSHSBNY69g": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1763736422504,
+    "modifiedTime": 1763736422504,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "categories": [],
+  "_id": "rHv1g5npdvg8aAX9",
+  "sort": 0,
+  "_key": "!journal!rHv1g5npdvg8aAX9"
+}

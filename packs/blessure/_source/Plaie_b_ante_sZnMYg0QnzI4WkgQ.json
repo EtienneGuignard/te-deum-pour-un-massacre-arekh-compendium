@@ -1,0 +1,31 @@
+{
+  "folder": "CB7FfvCWzqpma4QF",
+  "name": "Plaie béante",
+  "type": "blessure",
+  "img": "systems/fvtt-te-deum/images/icons/blessure.webp",
+  "system": {
+    "typeBlessure": "plaiebeante",
+    "localisation": "brasgauche",
+    "description": "<h2>Handicap</h2>\n<p>Dés minorés de 2 niveaux</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.world.blessure.Item.THIxH0GOrb8S9OB6",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "12.0.24",
+    "createdTime": 1742566708871,
+    "modifiedTime": 1742566708871,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "eEIYuKsSHSBNY69g": 3
+  },
+  "_id": "sZnMYg0QnzI4WkgQ",
+  "sort": 0,
+  "_key": "!items!sZnMYg0QnzI4WkgQ"
+}

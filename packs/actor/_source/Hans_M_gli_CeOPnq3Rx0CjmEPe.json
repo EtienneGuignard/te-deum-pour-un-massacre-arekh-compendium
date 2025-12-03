@@ -1,0 +1,2829 @@
+{
+  "folder": "ofO4bfLcF7B9yg5I",
+  "name": "Hans Mügli",
+  "type": "pnj",
+  "items": [
+    {
+      "name": "Endurance",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "complexion",
+        "score": 4,
+        "scoreBase": 0,
+        "description": "<p>L'Endurance évalue la santé et la résistance à la souffrance du personnage. C’est une compétence capitale pour sa survie. Lorsqu'un personnage est blessé, on soustrait son score d’Endurance aux dégâts encaissés ; plus l’Endurance est élevée, plus le personnage est résistant aux coups. Les tests d’Endurance permettent également d'évaluer la résistance du personnage aux infections, aux poisons et aux maladies.</p>",
+        "isBase": true
+      },
+      "effects": [],
+      "folder": "ummQTmHFrH9yixtH",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "0MHh7HkiEHg6UlmY",
+      "sort": 100000,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.0MHh7HkiEHg6UlmY"
+    },
+    {
+      "name": "Dressage",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à dresser un animal de compagnie (principalement chiens et chevaux). Le dressage d'un animal prend de plusieurs semaines à plusieurs mois en fonction de la complexité de l'apprentissage. Cette compétence recouvre également la capacité à se faire obéir par un animal déjà dressé.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "1FGl2AaFdHxQM8sd",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.1FGl2AaFdHxQM8sd"
+    },
+    {
+      "name": "Equitation",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Compétence permettant de monter à cheval.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "5GOtMXLaIdOzn2RR",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.5GOtMXLaIdOzn2RR"
+    },
+    {
+      "name": "Discrétion",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Cette compétence permet d'adopter une attitude insignifiante pour détourner l'attention de soi sans pour autant chercher à se cacher.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "8Oz6Pf9FdlYoGKub",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.8Oz6Pf9FdlYoGKub"
+    },
+    {
+      "name": "Lutte",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "puissance",
+        "score": 4,
+        "scoreBase": 1,
+        "description": "<p>Combat à mains nues dont le but n'est pas de blesser mais d'immobiliser son adversaire. </p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "4OPhigzcPv46qbWW",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "9H0hHNLe8SgSOKRG",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.9H0hHNLe8SgSOKRG"
+    },
+    {
+      "name": "Danse",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à pratiquer les différentes danses (gaillarde, pavane, allemande, branle, courante, volte, fiscaigne, etc.).</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "Bgc7xJCY3zgRlu7X",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.Bgc7xJCY3zgRlu7X"
+    },
+    {
+      "name": "Effort",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "puissance",
+        "score": 4,
+        "scoreBase": 0,
+        "description": "<p>Cette compétence englobe les efforts musculaires bruts, comme soulever une charge, pousser une charrette embourbée, haler une personne accrochée à une corde, etc. </p>",
+        "isBase": true
+      },
+      "effects": [],
+      "folder": "ummQTmHFrH9yixtH",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "DxCAVhgzBwbTwef3",
+      "sort": 200000,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.DxCAVhgzBwbTwef3"
+    },
+    {
+      "name": "Pistage",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "sensibilite",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à suivre une piste.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "PoeojVxnNQjYqeju",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "EEIwyqZJBaqK0Jjg",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.EEIwyqZJBaqK0Jjg"
+    },
+    {
+      "name": "Esquive",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 4,
+        "scoreBase": 1,
+        "description": "<p>Compétence permettant de se soustraire à une attaque à distance ou de décrocher d'un combat au corps à corps. Dans une mêlée, un test d'Esquive réussi permet de se dégager du combat sans être touché. Face à des armes de tir, l'esquive est moins efficace ; elle permet juste de limiter les dégâts en tentant de bondir hors de la ligne de mire. Le test est alors de niveau difficile. Un échec simple ajoute un degré de difficulté au tir (l’ennemi reste gêné par le mouvement de sa cible), une réussite simple ajoute deux degrés de difficulté au tir, une réussite critique permet de se soustraire automatiquement au tir.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "EXlsrQwJjXZmr2Ue",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.EXlsrQwJjXZmr2Ue"
+    },
+    {
+      "name": "Comédie",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à simuler attitudes et sentiments.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "EcNZpvMUOMPla4gF",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.EcNZpvMUOMPla4gF"
+    },
+    {
+      "name": "Détrousser",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Compétence permettant le chapardage. Il existe deux variantes du détroussage : le vol à l'arraché et le détroussage proprement dit. Le vol à l'arraché est facile mais le voleur est aussitôt repéré. Le détroussage est malaisé, voire difficile, mais le voleur, s'il réussit, opère sans se faire voir.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "GoFI9rfcINdWugqe",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.GoFI9rfcINdWugqe"
+    },
+    {
+      "name": "Perspicacité",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "sensibilite",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité permettant d'évaluer approximativement le degré de sincérité ou d'hypocrisie d'un interlocuteur.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "PoeojVxnNQjYqeju",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "HAHLKpz1WuaC0vfz",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.HAHLKpz1WuaC0vfz"
+    },
+    {
+      "name": "Charme",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 0,
+        "description": "<p>Mesure la capacité naturelle du personnage à éveiller la sympathie. Cette compétence peut être utilisée au cours d'une conversation, d'un bal, d'un banquet pour attirer l'attention ou la bienveillance d'autrui. Elle peut contribuer à séduire une personne, mais nécessite la réussite de plusieurs tests couplés avec d'autres compétences (Baratin, Chant, Comédie, Danse, Éloquence, Mendier, Pose...) pour faire naître une inclination amoureuse. Une réussite critique en Charme peut néanmoins provoquer un coup de foudre...</p>",
+        "isBase": true
+      },
+      "effects": [],
+      "folder": "ummQTmHFrH9yixtH",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "HIceiDLBnHc8Cnjp",
+      "sort": 400000,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.HIceiDLBnHc8Cnjp"
+    },
+    {
+      "name": "Armes d'hast",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "puissance",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Combat avec des armes blanches lourdes, héritées pour la plupart de l'armement médiéval (piques, hallebardes, espadons, lances d'arçon...).</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "4OPhigzcPv46qbWW",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "I88unXNOEQTIjd79",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.I88unXNOEQTIjd79"
+    },
+    {
+      "name": "Canotage",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "complexion",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à manœuvrer une embarcation à rames. Lorsque la manœuvre requiert plusieurs personnes, un test de Commander réussi est aussi requis pour manœuvrer correctement l’embarcation.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "xlBW7uRZcuJJ0vFY",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "Lm2t3ZelaHv4Xz45",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.Lm2t3ZelaHv4Xz45"
+    },
+    {
+      "name": "Bagarre",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "puissance",
+        "score": 5,
+        "scoreBase": 1,
+        "description": "<p>Combat à coups de pied et coups de poing, avec des armes de choc (masse d’armes, marteau d’armes) ou improvisées. Les armes d’escrime peuvent être utilisées avec la compétence Bagarre ; toutefois, elles ne peuvent alors servir qu'à attaquer ou à parer, et non les deux simultanément. Les armes d’hast peuvent également être utilisées avec la compétence Bagarre, mais elles infligent alors des dégâts divisés par 2, et elles ne peuvent être employées pour porter des coups spéciaux.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "4OPhigzcPv46qbWW",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "NEajZviN7PI4fFVg",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.NEajZviN7PI4fFVg"
+    },
+    {
+      "name": "Se Cacher",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à se dissimuler et à progresser furtivement.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "O0sAe7gDj72eDFJv",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.O0sAe7gDj72eDFJv"
+    },
+    {
+      "name": "Chant",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Maîtrise du « bel canto ».</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "QSGBsdqfJOd7xOMO",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.QSGBsdqfJOd7xOMO"
+    },
+    {
+      "name": "Orientation",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "sensibilite",
+        "score": 3,
+        "scoreBase": 1,
+        "description": "<p>Capacité à repérer les points cardinaux et à se situer géographiquement.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "PoeojVxnNQjYqeju",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "U81Y1KT84mVbUZ8B",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.U81Y1KT84mVbUZ8B"
+    },
+    {
+      "name": "Jeu de Paume",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Adresse au jeu de paume (ancêtre du tennis, joué en salle avec des raquettes en bois).</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "UNrbC5s8bBmuNSYH",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.UNrbC5s8bBmuNSYH"
+    },
+    {
+      "name": "Lancer",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 3,
+        "scoreBase": 1,
+        "description": "<p>Compétence qui permet de lancer des armes de jet ou de tirer à la fronde.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "YFA6ClZsupp2Z4E7",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.YFA6ClZsupp2Z4E7"
+    },
+    {
+      "name": "Criée",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Compétence à utiliser dans une foule pour essayer d'attirer le maximum de spectateurs ou de clients potentiels. Dans le cadre d’une foire ou d’un marché, un commerçant ou un bateleur réussissant son jet de Criée diminue d’un niveau le seuil de difficulté des prochains tests d'Éloquence, de Baratin et de Marchandage. (Ce bonus n'est bien sûr attribuable que dans le cadre d'une activité artistique ou commerciale de rue.)</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "Yk0OPvhvCBnVQXVB",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.Yk0OPvhvCBnVQXVB"
+    },
+    {
+      "name": "Dive Bouteille",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "complexion",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Cette compétence permet de mieux résister à l'alcool.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "xlBW7uRZcuJJ0vFY",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "ZhaPkCXkSL2vL9uB",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.ZhaPkCXkSL2vL9uB"
+    },
+    {
+      "name": "Escalade",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 4,
+        "scoreBase": 1,
+        "description": "<p>Compétence permettant de grimper les obstacles verticaux offrant un minimum de prises.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "bX5SZnqIcRb5tV8M",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.bX5SZnqIcRb5tV8M"
+    },
+    {
+      "name": "Saut",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "puissance",
+        "score": 4,
+        "scoreBase": 1,
+        "description": "<p>Capacité à sauter haut ou loin. Capacité à retomber sans trop de mal après une grande chute.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "4OPhigzcPv46qbWW",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "dQzXLPk5jXEz8yuK",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.dQzXLPk5jXEz8yuK"
+    },
+    {
+      "name": "Enseigner",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à transmettre des connaissances. C'est cette compétence qu'il faut utiliser pour tenter d'enseigner une compétence maîtrisée à un autre personnage.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "dht8FIQT2VuFJ713",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.dht8FIQT2VuFJ713"
+    },
+    {
+      "name": "Marchandage",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 6,
+        "scoreBase": 1,
+        "description": "<p>Capacité à négocier les prix et les services.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "eW115Mk2q64WaD9r",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.eW115Mk2q64WaD9r"
+    },
+    {
+      "name": "Course",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 4,
+        "scoreBase": 0,
+        "description": "<p>Un test de Course permet d'évaluer si le personnage se maintient à l'allure nécessaire (dans une poursuite, par exemple), ou s'il perd de la vitesse. </p>",
+        "isBase": true
+      },
+      "effects": [],
+      "folder": "ummQTmHFrH9yixtH",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "ghYm78Mw6oF5xnJY",
+      "sort": 500000,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.ghYm78Mw6oF5xnJY"
+    },
+    {
+      "name": "Couture",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Compétence de couturière et de drapier. Elle permet de repriser des vêtements, de broder ou encore de tailler et de coudre des vêtements.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "lbrRyjap30NzZlQs",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.lbrRyjap30NzZlQs"
+    },
+    {
+      "name": "Mémoriser",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "savoir",
+        "score": 4,
+        "scoreBase": 0,
+        "description": "<p>C'est la capacité du personnage à se souvenir de ce qui s'est passé au cours du scénario actuel, voire au cours des scénarios passés. Lorsqu'un joueur a oublié le nom d'un gentilhomme croisé à la cour, l'emplacement d'une maison dans une rue, le titre d'un livre, etc., le PJ fait un test de Mémoriser, avec un seuil de difficulté ajusté à la complexité et à l'ancienneté du souvenir sollicité. Si le test est réussi, le PJ se souvient de l'information.</p>\n<p>Lorsqu'un PJ veut apprendre une nouvelle compétence, il doit suivre l'enseignement d'un maître au terme duquel il fait un test de Mémoriser, avec un seuil par défaut pour une compétence courante, et un seuil difficile pour une compétence rare (langues, sciences ou disciplines artistiques) : s'il échoue, l'apprentissage n'est pas concluant. S'il réussit, le PJ peut investir un point d'expérience pour acquérir sa compétence.</p>",
+        "isBase": true
+      },
+      "effects": [],
+      "folder": "ummQTmHFrH9yixtH",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "lfwePXipt07BSQ4Y",
+      "sort": 600000,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.lfwePXipt07BSQ4Y"
+    },
+    {
+      "name": "Baratin",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Cette compétence sert généralement à gagner du temps en racontant n'importe quoi ; quelques minutes après la discussion, le personnage ainsi entretenu se rend compte qu'on l'a plus ou moins dupé. Le Baratin peut aussi servir à flatter son interlocuteur ; si le score de Baratin est supérieur à la Perspicacité du personnage flatté (et si le jet est réussi), le flatté croit le flatteur sincère. </p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "lgwN9iFDyJTskLBk",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.lgwN9iFDyJTskLBk"
+    },
+    {
+      "name": "Evaluation",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "sensibilite",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à estimer le coût exact d'un produit ou d'un service.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "PoeojVxnNQjYqeju",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "m3kZ6NjZodXPexPa",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.m3kZ6NjZodXPexPa"
+    },
+    {
+      "name": "Initiative",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 4,
+        "scoreBase": 0,
+        "description": "<p>Le score permet de déterminer la rapidité de réaction du personnage. C’est le personnage qui possède le score le plus élevé d’Initiative qui agit le premier au cours d’un tour de combat.</p>",
+        "isBase": true
+      },
+      "effects": [],
+      "folder": "ummQTmHFrH9yixtH",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0,
+        "olItfuK0F9moGFVb": 3
+      },
+      "_id": "npVNacEzrQqLbyaS",
+      "sort": 0,
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.npVNacEzrQqLbyaS"
+    },
+    {
+      "name": "Jeux de Dés",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 4,
+        "scoreBase": 1,
+        "description": "<p>Capacité à jouer, voire à tricher, aux jeux de dés. (Au xvie siècle, on joue beaucoup à « la passe à dix », pari fait sur un lancer de trois dés qui doivent impérativement donner un résultat supérieur à dix. On joue aussi au tric-trac, mélange de jeu de dames et de jeu de dés.)</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "oTf0JSQVgg4ysPMj",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.oTf0JSQVgg4ysPMj"
+    },
+    {
+      "name": "Eloquence",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à captiver et à convaincre un auditoire par la parole.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "qkfQNg3d6jPVOAh0",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.qkfQNg3d6jPVOAh0"
+    },
+    {
+      "name": "Cuisine",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "sensibilite",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>Capacité à mitonner de bons petits plats...</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "PoeojVxnNQjYqeju",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "w70lwxL1kHMbcaWu",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.w70lwxL1kHMbcaWu"
+    },
+    {
+      "name": "Escrime",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 5,
+        "scoreBase": 1,
+        "description": "<p>Compétence permettant de se battre avec les armes d’escrime. À la différence des autres compétences de corps à corps, où un test ne peut servir que d'attaque ou de parade, le test d'Escrime sert simultanément d'attaque et de parade.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "wvNRmBt81fFvViQz",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.wvNRmBt81fFvViQz"
+    },
+    {
+      "name": "Commander",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 1,
+        "scoreBase": 1,
+        "description": "<p>En situation d'activité ou de combat, un test réussi de Commander permet à un chef quelconque de décider des actions des PNJ qui sont sous ses ordres. Sur le champ de bataille, couplée avec un test réussi de Tactique, cette compétence permet d'accorder une action/tour supplémentaire à tous ses compagnons d'armes. (Bonus non cumulable, et sans effet sur le personnage qui utilise la compétence.)</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "xUrIpGbeavkaUUlu",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.xUrIpGbeavkaUUlu"
+    },
+    {
+      "name": "Perception",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "sensibilite",
+        "score": 2,
+        "scoreBase": 0,
+        "description": "<p>Mesure la finesse des perceptions visuelle, auditive, olfactive, gustative et tactile du personnage.</p>",
+        "isBase": true
+      },
+      "effects": [],
+      "folder": "ummQTmHFrH9yixtH",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "xyx4AQSDsAULPBDc",
+      "sort": 700000,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.xyx4AQSDsAULPBDc"
+    },
+    {
+      "name": "Forcer",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "puissance",
+        "score": 4,
+        "scoreBase": 1,
+        "description": "<p>Capacité à enfoncer une porte, à tordre des barreaux ou à briser une serrure. </p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "4OPhigzcPv46qbWW",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "yBfzwJtkDi5uj104",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.yBfzwJtkDi5uj104"
+    },
+    {
+      "name": "Français",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "savoir",
+        "score": 1,
+        "scoreBase": 0,
+        "description": "<p>Permet de pratiquer une langue étrangère. Le personnage ne peut lire et écrire cette langue qu'à un niveau équivalent à sa compétence la plus basse parmi les deux suivantes : Langue étrangère ou Lire/Écrire.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "EqOKceSPKK8fqnHv",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.competences.Item.d1gGkxZ9mpIrv8Al",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "N3TifqICJbsysLcv",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.N3TifqICJbsysLcv"
+    },
+    {
+      "name": "Armurerie",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "savoir",
+        "score": 4,
+        "scoreBase": 0,
+        "description": "<p>Compétence à utiliser pour l'entretien et la réparation des arcs, arbalètes et armes à feu. Un test avec cette compétence doit être réussi pour remettre en état un pistolet ou une arquebuse enrayés (ressort du rouet cassé, roue moletée encrassée par la pyrite ou usée par le silex, autres problèmes d'ignition...).</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "EqOKceSPKK8fqnHv",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.competences.Item.GF3OTApDHsQtYeZY",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "M5wGNL9t5lyNl6rK",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.M5wGNL9t5lyNl6rK"
+    },
+    {
+      "name": "Tactique",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "savoir",
+        "score": 3,
+        "scoreBase": 0,
+        "description": "<p>Compétence permettant de comprendre les mouvements d'ensemble d'une bataille et de donner des ordres adaptés. Au cours d'un combat rassemblant au moins 10 belligérants, un personnage qui réussit un test de Tactique et un test de Commander accorde une action supplémentaire par tour à tous ses compagnons d'armes. (Bonus non cumulable, et sans effet sur le personnage qui utilise la compétence.)</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "EqOKceSPKK8fqnHv",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.competences.Item.S6QMs34CH7kR7c4W",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "6s3R0WBRukqx62bs",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.6s3R0WBRukqx62bs"
+    },
+    {
+      "name": "Intimidation",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "entregent",
+        "score": 3,
+        "scoreBase": 0,
+        "description": "<p>En situation de combat, un test réussi permet d'intimider autant d'adversaires que le personnage possède de points de Charme. Dans l'hypothèse où le nombre d'adversaires est supérieur au score de Charme, ce sont toujours les adversaires les plus faibles qui sont impressionnés. Chaque adversaire intimidé est privé d’une action/tour tant qu’il affronte l’adversaire qui l’a impressionné, pour l'ensemble du combat.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "zrhPqyFswGOIUuVM",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.competences.Item.nDzblYTOz5jUiqn9",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "PxzPocPXJBrGiH3O",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.PxzPocPXJBrGiH3O"
+    },
+    {
+      "name": "Arquebusade",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 4,
+        "scoreBase": 0,
+        "description": "<p>Compétence permettant de recharger un pistolet ou une arquebuse et de faire feu.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.competences.Item.RCyVcLpbxsM3goTF",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "wHwi6yuQzgeFkG8S",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.wHwi6yuQzgeFkG8S"
+    },
+    {
+      "name": "Main gauche",
+      "type": "competence",
+      "img": "systems/fvtt-te-deum/images/icons/competence.webp",
+      "system": {
+        "caracteristique": "adresse",
+        "score": 3,
+        "scoreBase": 0,
+        "description": "<p>Cette compétence permet d'utiliser la main gauche pour se battre avec une dague ou pour tirer au pistolet. Elle permet donc de bénéficier du double des actions. Toutefois, lorsqu'un personnage se bat avec la main gauche, il doit toujours utiliser la compétence la plus basse entre Main gauche et celle qu'il devrait logiquement employer avec l'arme utilisée (Bagarre ou Escrime avec une dague, Arquebusade avec un pistolet).</p>\n<p>Par exemple, François de Viemme possède les compétences suivantes : Escrime 3, Main gauche 2, Arquebusade 1. S'il utilise une dague avec la main gauche, il doit utiliser la plus mauvaise compétence entre Escrime et Main gauche, soit Main gauche. S'il utilise un pistolet avec la main gauche, il doit employer la plus mauvaise compétence entre Arquebusade et Main gauche, soit Arquebusade.</p>",
+        "isBase": false
+      },
+      "effects": [],
+      "folder": "SIYRuBxYT8ft2fWj",
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.competences.Item.qhIB5y1I3QxKurSX",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "h1mIPlMLMgRlp06f",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.h1mIPlMLMgRlp06f"
+    },
+    {
+      "folder": "JylmOsY7tqg19Xl7",
+      "name": "Dossière",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": true
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "protection": 2,
+        "prix": 5,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>La dossière est la partie arrière de la cuirasse, qui protège le dos. La dossière est superposable avec un pourpoint de buffle, un jaseran ou une jacque de mailles. </p>",
+        "typeArmure": "plate",
+        "coutArmureLourde": 1,
+        "superposableCuir": true,
+        "superposableMaille": true,
+        "superposablePlate": false
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armures.Item.3N7P0hEZosedukQh",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "9l2HPA16bBOPwtc5",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.9l2HPA16bBOPwtc5"
+    },
+    {
+      "folder": "JylmOsY7tqg19Xl7",
+      "name": "Ventrière",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "_id": "149JMb3gV4WHk8FA",
+      "system": {
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": true
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "protection": 2,
+        "prix": 7,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>La ventrière est un plastron de fer qui protège le ventre et la poitrine ; c’est la partie antérieure de la cuirasse. Il s’agit de la pièce d'armure de plate la plus répandue dans les corps d'armée. La ventrière est superposable avec un pourpoint de buffle, un jaseran ou une jacque de mailles. Les soldats de l’infanterie la portent souvent sans dossière, par économie ou pour rester léger</p>",
+        "typeArmure": "plate",
+        "coutArmureLourde": 1,
+        "superposableCuir": true,
+        "superposableMaille": true,
+        "superposablePlate": false
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armures.Item.7hZdgpDgQV8DE5pE",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.149JMb3gV4WHk8FA"
+    },
+    {
+      "folder": "DrSA3kyujVucajQh",
+      "name": "Bourguignotte",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": true
+          }
+        },
+        "protection": 1,
+        "prix": 7,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>La bourguignotte est un casque arrondi, doté d'une visière et de protège-joues métalliques, parfois orné d'une crête métallique. Elle protège la tête. </p>",
+        "typeArmure": "plate",
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": false,
+        "superposablePlate": false
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armures.Item.3QHo5LGmSEtl4qqF",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "ryQuFhSGOWVJfGs4",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.ryQuFhSGOWVJfGs4"
+    },
+    {
+      "folder": "2wTJBj3dicRKzNOE",
+      "name": "Gants de cuir (gauche)",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "_id": "ZYEPpKkn7WWn2eki",
+      "system": {
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": true
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "protection": 1,
+        "prix": 2,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>Les gants protègent les mains, et sont très prisés car ils permettent de tirer avec un pistolet normal. Les gants de cuir ne peuvent être superposés avec des gantelets de fer. </p>",
+        "typeArmure": "cuir",
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": false,
+        "superposablePlate": false
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armures.Item.qMnNWNYRYaIujcqF",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.ZYEPpKkn7WWn2eki"
+    },
+    {
+      "folder": "2wTJBj3dicRKzNOE",
+      "name": "Gants de cuir (droit)",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": true
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "protection": 1,
+        "prix": 2,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>Les gants protègent les mains, et sont très prisés car ils permettent de tirer avec un pistolet normal. Les gants de cuir ne peuvent être superposés avec des gantelets de fer. </p>",
+        "typeArmure": "cuir",
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": false,
+        "superposablePlate": false
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armures.Item.VvQ5vF1gq2dC3jKI",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "DnkvkXFkZiiS9rqR",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.DnkvkXFkZiiS9rqR"
+    },
+    {
+      "folder": "2wTJBj3dicRKzNOE",
+      "name": "Bottes (gauche)",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": true
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "protection": 1,
+        "prix": 2,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>Les bottes protègent les pieds, et sont appréciées car plus pratiques et plus confortables que des solerets. Les bottes ne peuvent être superposées avec des solerets.  </p>",
+        "typeArmure": "cuir",
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": false,
+        "superposablePlate": false
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armures.Item.094EjmixD7lpPeuh",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "r4AI7IUDbfLOdp8U",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.r4AI7IUDbfLOdp8U"
+    },
+    {
+      "folder": "2wTJBj3dicRKzNOE",
+      "name": "Bottes (droit)",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "localisation": {
+          "pieddroit": {
+            "protege": true
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "protection": 1,
+        "prix": 2,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>Les bottes protègent les pieds, et sont appréciées car plus pratiques et plus confortables que des solerets. Les bottes ne peuvent être superposées avec des solerets.  </p>",
+        "superposablePlate": false,
+        "typeArmure": "cuir",
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": false
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armures.Item.fA4Q3MmHJkgR5VxE",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_id": "Yw57rmBugyK1PV7k",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.Yw57rmBugyK1PV7k"
+    },
+    {
+      "name": "Brassard cuir (gauche)",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "typeArmure": "cuir",
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": true
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": true,
+        "superposablePlate": false,
+        "protection": 1,
+        "prix": 20,
+        "monnaie": "10",
+        "equipe": true,
+        "description": ""
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.world.armures.Item.NKsg6so2cqtzKoDB",
+        "duplicateSource": "Item.6ufB1uuJnnAncK7q",
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "sort": 0,
+      "_id": "ek8pZ87UgAD7HC8q",
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.ek8pZ87UgAD7HC8q"
+    },
+    {
+      "name": "Brassard cuir (droit)",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "typeArmure": "cuir",
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": true
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": true,
+        "superposablePlate": false,
+        "protection": 1,
+        "prix": 20,
+        "monnaie": "10",
+        "equipe": true,
+        "description": ""
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.world.armures.Item.NKsg6so2cqtzKoDB",
+        "duplicateSource": "Item.GwvjhsM9oqsIaf56",
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "sort": 0,
+      "_id": "6ww9QIDhTthXAnEN",
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.6ww9QIDhTthXAnEN"
+    },
+    {
+      "name": "Jambière cuir (droite)",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "typeArmure": "cuir",
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": true
+          },
+          "jambegauche": {
+            "protege": false
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": true,
+        "superposablePlate": false,
+        "protection": 1,
+        "prix": 20,
+        "monnaie": "10",
+        "equipe": true,
+        "description": ""
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.world.armures.Item.NKsg6so2cqtzKoDB",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_id": "S480pmWeRmZGgWLM",
+      "sort": 0,
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.S480pmWeRmZGgWLM"
+    },
+    {
+      "name": "Jambière cuir (gauche)",
+      "type": "armure",
+      "img": "systems/fvtt-te-deum/images/icons/armure.webp",
+      "system": {
+        "typeArmure": "cuir",
+        "localisation": {
+          "pieddroit": {
+            "protege": false
+          },
+          "jambedroite": {
+            "protege": false
+          },
+          "jambegauche": {
+            "protege": true
+          },
+          "piedgauche": {
+            "protege": false
+          },
+          "maindroite": {
+            "protege": false
+          },
+          "maingauche": {
+            "protege": false
+          },
+          "brasdroit": {
+            "protege": false
+          },
+          "brasgauche": {
+            "protege": false
+          },
+          "corps": {
+            "protege": false
+          },
+          "tete": {
+            "protege": false
+          }
+        },
+        "coutArmureLourde": 0,
+        "superposableCuir": false,
+        "superposableMaille": true,
+        "superposablePlate": false,
+        "protection": 1,
+        "prix": 20,
+        "monnaie": "10",
+        "equipe": true,
+        "description": ""
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.world.armures.Item.NKsg6so2cqtzKoDB",
+        "duplicateSource": "Item.8W8KIXgTEiLHCmoD",
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "sort": 0,
+      "_id": "f2NZJbj5zmOpT8hd",
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.f2NZJbj5zmOpT8hd"
+    },
+    {
+      "folder": "eSf0SBXyeNCHTGCX",
+      "name": "Forte-épée",
+      "type": "arme",
+      "img": "systems/fvtt-te-deum/images/icons/arme_melee.webp",
+      "_id": "rPd5WIpd6KE2w5gD",
+      "system": {
+        "typeArme": "melee",
+        "allonge": "moyenne",
+        "specificites": {
+          "encombrante": {
+            "hasSpec": false
+          },
+          "maintiendistance": {
+            "hasSpec": false
+          },
+          "coupassomant": {
+            "hasSpec": false
+          },
+          "peutlancer": {
+            "hasSpec": false
+          },
+          "pasboutportant": {
+            "hasSpec": false
+          },
+          "mitraille": {
+            "hasSpec": false
+          },
+          "degatscharge": {
+            "hasSpec": false
+          },
+          "crochecavalier": {
+            "hasSpec": false
+          },
+          "coupfaucheur": {
+            "hasSpec": false
+          },
+          "briselances": {
+            "hasSpec": false
+          },
+          "pasbrisemaingaucheespagnole": {
+            "hasSpec": true
+          },
+          "peutbriser": {
+            "hasSpec": false
+          },
+          "poing": {
+            "hasSpec": false
+          },
+          "pied": {
+            "hasSpec": false
+          }
+        },
+        "portees": {
+          "brulepourpoint": {
+            "value": 0
+          },
+          "courte": {
+            "value": 0
+          },
+          "moyenne": {
+            "value": 0
+          },
+          "longue": {
+            "value": 0
+          },
+          "extreme": {
+            "value": 0
+          }
+        },
+        "degatsArmure": {
+          "sansarmure": 1,
+          "cuir": 0,
+          "plates": 0,
+          "mailles": 0
+        },
+        "tempsRecharge": 0,
+        "competenceRecharge": "aucune",
+        "valeurEchecCritique": 1,
+        "initiativeBonus": 0,
+        "competence": "escrime",
+        "competence2": "",
+        "prix": 3,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>Il s’agit de l’arme de la noblesse, héritée de l’épée longue médiévale. Généralement longue d’un mètre à 1,20 m, elle dispose d’une large lame à double tranchant et peut être employée indifféremment de taille et d’estoc. </p>",
+        "degats": "1d10",
+        "degatscrosse": "0"
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armes.Item.My4tbtIt2Zycd3IH",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.rPd5WIpd6KE2w5gD"
+    },
+    {
+      "folder": "eSf0SBXyeNCHTGCX",
+      "name": "Dague de main gauche",
+      "type": "arme",
+      "img": "systems/fvtt-te-deum/images/icons/arme_melee.webp",
+      "_id": "IIDPoeT7NKvYoU2J",
+      "system": {
+        "typeArme": "melee",
+        "allonge": "courte",
+        "specificites": {
+          "encombrante": {
+            "hasSpec": false
+          },
+          "maintiendistance": {
+            "hasSpec": false
+          },
+          "coupassomant": {
+            "hasSpec": false
+          },
+          "peutlancer": {
+            "hasSpec": false
+          },
+          "pasboutportant": {
+            "hasSpec": false
+          },
+          "mitraille": {
+            "hasSpec": false
+          },
+          "degatscharge": {
+            "hasSpec": false
+          },
+          "crochecavalier": {
+            "hasSpec": false
+          },
+          "coupfaucheur": {
+            "hasSpec": false
+          },
+          "briselances": {
+            "hasSpec": false
+          },
+          "pasbrisemaingaucheespagnole": {
+            "hasSpec": false
+          },
+          "peutbriser": {
+            "hasSpec": false
+          },
+          "poing": {
+            "hasSpec": false
+          },
+          "pied": {
+            "hasSpec": false
+          }
+        },
+        "portees": {
+          "brulepourpoint": {
+            "value": 0
+          },
+          "courte": {
+            "value": 0
+          },
+          "moyenne": {
+            "value": 0
+          },
+          "longue": {
+            "value": 0
+          },
+          "extreme": {
+            "value": 0
+          }
+        },
+        "degatsArmure": {
+          "sansarmure": 0,
+          "cuir": 0,
+          "plates": 0,
+          "mailles": 0
+        },
+        "tempsRecharge": 0,
+        "competenceRecharge": "aucune",
+        "valeurEchecCritique": 1,
+        "initiativeBonus": 0,
+        "competence": "escrime",
+        "competence2": "maingauche",
+        "prix": 1,
+        "monnaie": "100",
+        "equipe": true,
+        "description": "<p>Ce type de dague est conçu comme une arme défensive de duel. Sa garde, en S ou cruciforme, plus large et plus solide que celle de la dague traditionnelle, sert à bloquer plus facilement la lame d’un adversaire. Les coquilles destinées à protéger la main n’existent pas encore au xvie siècle et ne se répandront qu’au xviie siècle. </p>",
+        "degats": "1d6",
+        "degatscrosse": "0"
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armes.Item.QaWiE7PyDuwTzPc0",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.IIDPoeT7NKvYoU2J"
+    },
+    {
+      "folder": "InCQeTRdT5jXMX82",
+      "name": "Tromblon",
+      "type": "arme",
+      "img": "systems/fvtt-te-deum/images/icons/arme_melee.webp",
+      "_id": "LNW66buttKZp6YYt",
+      "system": {
+        "typeArme": "tir",
+        "allonge": "courte",
+        "specificites": {
+          "encombrante": {
+            "hasSpec": false
+          },
+          "maintiendistance": {
+            "hasSpec": false
+          },
+          "coupassomant": {
+            "hasSpec": false
+          },
+          "peutlancer": {
+            "hasSpec": false
+          },
+          "pasboutportant": {
+            "hasSpec": false
+          },
+          "mitraille": {
+            "hasSpec": true
+          },
+          "degatscharge": {
+            "hasSpec": false
+          },
+          "crochecavalier": {
+            "hasSpec": false
+          },
+          "coupfaucheur": {
+            "hasSpec": false
+          },
+          "briselances": {
+            "hasSpec": false
+          },
+          "pasbrisemaingaucheespagnole": {
+            "hasSpec": false
+          },
+          "peutbriser": {
+            "hasSpec": false
+          },
+          "poing": {
+            "hasSpec": false
+          },
+          "pied": {
+            "hasSpec": false
+          }
+        },
+        "portees": {
+          "brulepourpoint": {
+            "value": 0
+          },
+          "courte": {
+            "value": 0
+          },
+          "moyenne": {
+            "value": 0
+          },
+          "longue": {
+            "value": 0
+          },
+          "extreme": {
+            "value": 0
+          }
+        },
+        "degatsArmure": {
+          "sansarmure": 0,
+          "cuir": 0,
+          "plates": 0,
+          "mailles": 0
+        },
+        "tempsRecharge": 10,
+        "competenceRecharge": "arquebusade",
+        "valeurEchecCritique": 1,
+        "initiativeBonus": 0,
+        "competence": "arquebusade",
+        "competence2": "",
+        "prix": 0,
+        "monnaie": "denier",
+        "equipe": true,
+        "description": "<p>Cette arme apparaît dans les Pays-Bas vers 1560 ; elle n’est employée que par les troupes hollandaises (« gueux » en insurrection contre la couronne espagnole ou mercenaires flamands). Long d’environ 80 cm à 1 m, le tromblon peut avoir une crosse de pistole ou d’arquebuse ; son canon, en revanche, court et évasé, possède généralement un calibre de 45 mm, mais peut atteindre 70 mm. Il bénéficie généralement d’une platine à rouet, plus appropriée pour une arme de défense.<br />En raison de sa très faible portée, le tromblon est effectivement une arme défensive. On le charge de 12 à 15 balles de petit calibre, qu’on décharge en une mitraille dense pour stopper d’un seul coup un grand nombre d’attaquants. La quantité de poudre et de balles dont on charge cette arme la rend assez dangereuse pour son utilisateur : le tirage du dé négatif s’opère sur un résultat de 1 ou 2.</p>",
+        "degats": "1d8",
+        "degatscrosse": "0"
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.fvtt-te-deum.armes.Item.GKgE7QkiPBymQisU",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "6FEI0m8NZhNJtQWT": 3,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "_key": "!actors.items!CeOPnq3Rx0CjmEPe.LNW66buttKZp6YYt"
+    }
+  ],
+  "_id": "CeOPnq3Rx0CjmEPe",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "caracteristiques": {
+      "savoir": {
+        "value": 1,
+        "experience": 0
+      },
+      "sensibilite": {
+        "value": 2,
+        "experience": 0
+      },
+      "entregent": {
+        "value": 1,
+        "experience": 0
+      },
+      "complexion": {
+        "value": 4,
+        "experience": 0
+      },
+      "puissance": {
+        "value": 4,
+        "experience": 0
+      },
+      "adresse": {
+        "value": 4,
+        "experience": 0
+      }
+    },
+    "providence": {
+      "value": 0
+    },
+    "bienveillance": {
+      "value": 6
+    },
+    "localisation": {
+      "pieddroit": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "jambedroite": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "jambegauche": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "piedgauche": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "maindroite": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "maingauche": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "brasdroit": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "brasgauche": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "corps": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      },
+      "tete": {
+        "armure": 0,
+        "touche": 0,
+        "blessures": 0
+      }
+    },
+    "fortune": {
+      "ecus": 0,
+      "livres": 0,
+      "sous": 0,
+      "deniers": 0
+    },
+    "description": "<p>C’est un mercenaire d’origine suisse, mais qui n’a plus guère d’attache nationale. Ni religieuse d’ailleurs. Il illustre bien <br />le type d’hommes au service de Menegon. Homme du rang parmi les autres, il est <br />néanmoins expérimenté et pour cela très écouté des autres mercenaires.</p>\n<table style=\"width:100%;border-width:1px;border-spacing:6px\" border=\"1\"><colgroup><col style=\"width:48.802%\"></col><col style=\"width:51.198%\"></col></colgroup>\n<tbody>\n<tr>\n<td style=\"padding:6px\"><strong>Portrait physique –</strong> Grand et jadis sans <br />doute très athlétique, Hans commence à accuser une surcharge pondérale certaine qui le handicape dans ses déplacements et, surtout, dans le port d’une cuirasse qu’il ne supporte plus guère qu’une heure ou deux par jour. Presque chauve, il porte, <br />par contre, une abondante barbe tirant sur le roux. Son regard, glacial, est bleu acier. Devenu peu mobile, il se bat surtout <br />à grands moulinets d’épée, en brassant de <br />l’air et beuglant à s’en faire éclater les pou￾mons. Souvent, ça marche. La preuve, il est encore en vie après dix ans de mercenariat.</td>\n<td style=\"padding:6px\"><strong>Portrait moral</strong> – Issu d’une famille protestante, Hans, quant à lui, a perdu toute religion. S’il lui arrive de prier avant un <br />combat, il n’identifie pas très bien à quel dieu et selon quel rite il adresse ses peurs et ses espoirs. Il faut dire que, depuis dix <br />ans, il a tant tué et torturé au nom des deux religions qu’il ne sait plus trop bien où il en est. Au fond de lui, il est d’ailleurs las <br />de tout cela. Il est même désormais réticent à se battre contre des gens à cause de leur religion ou même de leur culture. Il ne désire plus se battre que pour une seule cause : l’argent!</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+    "notes": "",
+    "connaissances": "",
+    "histoire": "",
+    "vetements": "",
+    "equipmentfree": "",
+    "genre": "Homme",
+    "age": "",
+    "datenaissance": "",
+    "statutocial": "",
+    "chargestitre": "",
+    "charges": "",
+    "religion": "",
+    "lieunaissance": ""
+  },
+  "prototypeToken": {
+    "name": "Hans Mügli",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "secondary.health"
+    },
+    "bar2": {
+      "attribute": "secondary.delirium"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "NLQVhS9RJ3bE5C95": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1764718028310,
+    "modifiedTime": 1764718028310,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_key": "!actors!CeOPnq3Rx0CjmEPe"
+}

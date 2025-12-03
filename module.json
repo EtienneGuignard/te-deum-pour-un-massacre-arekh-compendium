@@ -75,10 +75,33 @@
       "label": "Cosmographie",
       "path": "packs/cosmographie",
       "type": "JournalEntry",
+      "system": "fvtt-te-deum",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "arme",
+      "label": "Armes",
+      "path": "packs/arme",
+      "type": "Item",
+      "system": "fvtt-te-deum",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "maladies-plantes",
+      "label": "Maladies et Plantes",
+      "path": "packs/maladies-plantes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "fvtt-te-deum"
     }
   ],
   "description": "",

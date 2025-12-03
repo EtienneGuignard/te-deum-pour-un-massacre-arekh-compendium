@@ -1,0 +1,109 @@
+{
+  "name": "Kabutowari",
+  "type": "arme",
+  "img": "systems/fvtt-te-deum/images/icons/arme_melee.webp",
+  "system": {
+    "typeArme": "melee",
+    "allonge": "courte",
+    "specificites": {
+      "poing": {
+        "hasSpec": false
+      },
+      "pied": {
+        "hasSpec": false
+      },
+      "encombrante": {
+        "hasSpec": false
+      },
+      "maintiendistance": {
+        "hasSpec": false
+      },
+      "coupassomant": {
+        "hasSpec": false
+      },
+      "peutlancer": {
+        "hasSpec": false
+      },
+      "pasboutportant": {
+        "hasSpec": false
+      },
+      "mitraille": {
+        "hasSpec": false
+      },
+      "degatscharge": {
+        "hasSpec": false
+      },
+      "crochecavalier": {
+        "hasSpec": false
+      },
+      "coupfaucheur": {
+        "hasSpec": false
+      },
+      "briselances": {
+        "hasSpec": false
+      },
+      "pasbrisemaingaucheespagnole": {
+        "hasSpec": false
+      },
+      "peutbriser": {
+        "hasSpec": false
+      }
+    },
+    "portees": {
+      "brulepourpoint": {
+        "value": 0
+      },
+      "courte": {
+        "value": 0
+      },
+      "moyenne": {
+        "value": 0
+      },
+      "longue": {
+        "value": 0
+      },
+      "extreme": {
+        "value": 0
+      }
+    },
+    "degatsArmure": {
+      "sansarmure": 0,
+      "cuir": 0,
+      "plates": 0,
+      "mailles": 0
+    },
+    "tempsRecharge": 0,
+    "competenceRecharge": "aucune",
+    "valeurEchecCritique": 1,
+    "initiativeBonus": 0,
+    "degats": "1d6",
+    "degatscrosse": "0",
+    "competence": "escrime",
+    "competence2": "maingauche",
+    "prix": 1,
+    "monnaie": "100",
+    "equipe": false,
+    "description": "<p>The <span title=\"Hepburn transliteration\"><em lang=\"ja-Latn\"><strong>Kabutowari</strong></em></span> (<a title=\"Japanese language\" href=\"https://en.wikipedia.org/wiki/Japanese_language\">Japanese</a>: <span lang=\"ja\">兜割</span>; lit. \"helmet breaker\" or \"skull breaker\"<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/Kabutowari#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>), also known as <em><strong>hachiwari</strong></em>, was a type of knife-shaped weapon, resembling a <em><a title=\"Jitte\" href=\"https://en.wikipedia.org/wiki/Jitte\">jitte</a></em> in many respects. This weapon was carried as a <a class=\"mw-redirect\" title=\"Side arms\" href=\"https://en.wikipedia.org/wiki/Side_arms\">side-arm</a> by the <em><a title=\"Samurai\" href=\"https://en.wikipedia.org/wiki/Samurai\">samurai</a></em> class of <a class=\"mw-redirect\" title=\"Feudal Japan\" href=\"https://en.wikipedia.org/wiki/Feudal_Japan\">feudal Japan</a>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "NLQVhS9RJ3bE5C95": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1764760768711,
+    "modifiedTime": 1764760768736,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_id": "nv5AhLu1Pqe8UYdb",
+  "sort": 200000,
+  "_key": "!items!nv5AhLu1Pqe8UYdb"
+}

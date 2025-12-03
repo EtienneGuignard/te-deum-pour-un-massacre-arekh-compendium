@@ -1,0 +1,31 @@
+{
+  "folder": "4TaPpGZtsxgdJuXG",
+  "name": "Indemne",
+  "type": "blessure",
+  "img": "systems/fvtt-te-deum/images/icons/blessure.webp",
+  "system": {
+    "typeBlessure": "indemne",
+    "localisation": "maindroite",
+    "description": "<h2>Handicap</h2>\n<p>Rien</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.world.blessure.Item.UYaYpA3pyd68zK0o",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "12.0.24",
+    "createdTime": 1742566717169,
+    "modifiedTime": 1742566717169,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "eEIYuKsSHSBNY69g": 3
+  },
+  "_id": "l4UL0EnorKxNJWdP",
+  "sort": 0,
+  "_key": "!items!l4UL0EnorKxNJWdP"
+}

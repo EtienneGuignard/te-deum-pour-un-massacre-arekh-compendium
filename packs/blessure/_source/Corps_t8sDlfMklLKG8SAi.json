@@ -1,0 +1,22 @@
+{
+  "name": "Corps",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "t8sDlfMklLKG8SAi",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "12.0.24",
+    "createdTime": 1742566710979,
+    "modifiedTime": 1742566710990,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "_key": "!folders!t8sDlfMklLKG8SAi"
+}

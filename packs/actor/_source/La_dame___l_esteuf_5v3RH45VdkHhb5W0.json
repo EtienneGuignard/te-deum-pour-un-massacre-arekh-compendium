@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": null,
+  "name": "La dame à l'esteuf",
+  "color": null,
+  "sorting": "a",
+  "_id": "5v3RH45VdkHhb5W0",
+  "description": "",
+  "sort": 1600000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1764717816884,
+    "modifiedTime": 1764717817555,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_key": "!folders!5v3RH45VdkHhb5W0"
+}

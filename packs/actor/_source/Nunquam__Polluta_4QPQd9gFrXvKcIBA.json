@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": null,
+  "name": "Nunquam  Polluta",
+  "color": null,
+  "sorting": "a",
+  "_id": "4QPQd9gFrXvKcIBA",
+  "description": "",
+  "sort": 2700000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1764718127218,
+    "modifiedTime": 1764718129322,
+    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+  },
+  "_key": "!folders!4QPQd9gFrXvKcIBA"
+}

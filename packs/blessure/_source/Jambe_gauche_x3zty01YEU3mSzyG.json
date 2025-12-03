@@ -1,0 +1,22 @@
+{
+  "name": "Jambe gauche",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "x3zty01YEU3mSzyG",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "12.0.24",
+    "createdTime": 1742566715163,
+    "modifiedTime": 1742566715174,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "_key": "!folders!x3zty01YEU3mSzyG"
+}
