@@ -1,0 +1,22 @@
+{
+  "name": "Main droite",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "4TaPpGZtsxgdJuXG",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "12.0.24",
+    "createdTime": 1742566717163,
+    "modifiedTime": 1742566717174,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "_key": "!folders!4TaPpGZtsxgdJuXG"
+}

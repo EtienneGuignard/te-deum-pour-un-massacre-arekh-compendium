@@ -1,0 +1,31 @@
+{
+  "folder": "hDgVsx3hhYUHBMJ8",
+  "name": "Estafilade",
+  "type": "blessure",
+  "img": "systems/fvtt-te-deum/images/icons/blessure.webp",
+  "system": {
+    "typeBlessure": "estafilade",
+    "localisation": "brasdroit",
+    "description": "<h2>Handicap</h2>\n<p>Rien (dés minorés d'un niveau si la<br />somme des blessures est supérieure au<br />score d'Endurance)</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.world.blessure.Item.C2MSugk0RcB7cyg8",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "12.0.24",
+    "createdTime": 1742566706553,
+    "modifiedTime": 1742566706553,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "eEIYuKsSHSBNY69g": 3
+  },
+  "_id": "XDE8egENuwcPzEhx",
+  "sort": 0,
+  "_key": "!items!XDE8egENuwcPzEhx"
+}

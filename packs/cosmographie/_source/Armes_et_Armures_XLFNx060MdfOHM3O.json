@@ -1,0 +1,140 @@
+{
+  "name": "Armes et Armures",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Armes Blanches",
+      "type": "image",
+      "_id": "wOFJ87QiSSIChWhm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "artwork/Te%20deum%20pour%20un%20massacre/r%C3%A8gles/Armes%20cac.png",
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "_key": "!journal.pages!XLFNx060MdfOHM3O.wOFJ87QiSSIChWhm"
+    },
+    {
+      "sort": 200000,
+      "name": "Armes à feu",
+      "type": "image",
+      "_id": "VSgiOfsfWii7CU84",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "artwork/Te%20deum%20pour%20un%20massacre/r%C3%A8gles/armes%20a%20feu.png",
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "_key": "!journal.pages!XLFNx060MdfOHM3O.VSgiOfsfWii7CU84"
+    },
+    {
+      "sort": 300000,
+      "name": "Armures",
+      "type": "image",
+      "_id": "D3sXp7y11FifoBuC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "artwork/Te%20deum%20pour%20un%20massacre/r%C3%A8gles/armures.png",
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.10",
+        "lastModifiedBy": null
+      },
+      "category": null,
+      "_key": "!journal.pages!XLFNx060MdfOHM3O.D3sXp7y11FifoBuC"
+    }
+  ],
+  "folder": null,
+  "ownership": {
+    "default": 2,
+    "eEIYuKsSHSBNY69g": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1762968765149,
+    "modifiedTime": 1762981307908,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "categories": [],
+  "_id": "XLFNx060MdfOHM3O",
+  "sort": 100000,
+  "_key": "!journal!XLFNx060MdfOHM3O"
+}

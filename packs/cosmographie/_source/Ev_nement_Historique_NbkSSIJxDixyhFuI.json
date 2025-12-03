@@ -1,0 +1,23 @@
+{
+  "type": "JournalEntry",
+  "folder": null,
+  "name": "Evènement Historique",
+  "color": null,
+  "sorting": "a",
+  "_id": "NbkSSIJxDixyhFuI",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1762968423331,
+    "modifiedTime": 1762968423338,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "_key": "!folders!NbkSSIJxDixyhFuI"
+}

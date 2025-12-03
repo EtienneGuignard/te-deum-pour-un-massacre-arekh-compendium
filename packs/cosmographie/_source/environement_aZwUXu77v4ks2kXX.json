@@ -1,0 +1,23 @@
+{
+  "type": "JournalEntry",
+  "folder": null,
+  "name": "environement",
+  "color": null,
+  "sorting": "a",
+  "_id": "aZwUXu77v4ks2kXX",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.10",
+    "createdTime": 1762968923504,
+    "modifiedTime": 1762968923504,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "_key": "!folders!aZwUXu77v4ks2kXX"
+}

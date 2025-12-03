@@ -1,0 +1,31 @@
+{
+  "folder": "hDgVsx3hhYUHBMJ8",
+  "name": "Plaie",
+  "type": "blessure",
+  "img": "systems/fvtt-te-deum/images/icons/blessure.webp",
+  "system": {
+    "typeBlessure": "plaie",
+    "localisation": "brasdroit",
+    "description": "<h2>Handicap</h2>\n<p>Dés minorés d'un niveau</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.world.blessure.Item.uobV7mLXWqgR2IkW",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "12.0.24",
+    "createdTime": 1742566706553,
+    "modifiedTime": 1742566706553,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "eEIYuKsSHSBNY69g": 3
+  },
+  "_id": "sN778L9A2SZxBFSL",
+  "sort": 0,
+  "_key": "!items!sN778L9A2SZxBFSL"
+}

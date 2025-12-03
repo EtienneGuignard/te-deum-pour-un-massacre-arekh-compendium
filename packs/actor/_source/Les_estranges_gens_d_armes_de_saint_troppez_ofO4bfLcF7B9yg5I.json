@@ -5,7 +5,7 @@
   "type": "Actor",
   "_id": "ofO4bfLcF7B9yg5I",
   "description": "",
-  "sort": 300000,
+  "sort": 2400000,
   "color": null,
   "flags": {},
   "_stats": {
@@ -14,9 +14,9 @@
     "exportSource": null,
     "coreVersion": "13.350",
     "systemId": "fvtt-te-deum",
-    "systemVersion": "13.0.10",
-    "createdTime": 1763735987200,
-    "modifiedTime": 1763735987727,
+    "systemVersion": "13.0.12",
+    "createdTime": 1764718028111,
+    "modifiedTime": 1764718028724,
     "lastModifiedBy": "NLQVhS9RJ3bE5C95"
   },
   "_key": "!folders!ofO4bfLcF7B9yg5I"

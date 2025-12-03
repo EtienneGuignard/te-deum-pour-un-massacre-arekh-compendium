@@ -1,0 +1,22 @@
+{
+  "name": "Tête",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "luDoOZImqUeXO69U",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "12.0.24",
+    "createdTime": 1742566725379,
+    "modifiedTime": 1742566725393,
+    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+  },
+  "_key": "!folders!luDoOZImqUeXO69U"
+}
