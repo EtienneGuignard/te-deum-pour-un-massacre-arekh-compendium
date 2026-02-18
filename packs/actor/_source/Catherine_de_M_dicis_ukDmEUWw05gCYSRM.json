@@ -2121,7 +2121,7 @@
     }
   ],
   "_id": "ukDmEUWw05gCYSRM",
-  "img": "artwork/Te%20deum%20pour%20un%20massacre/Personnages/Catherine_de_M%C3%A9dicis_-_atelier_de_Fran%C3%A7ois_Clouet.jpg",
+  "img": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/CharacterArtwork/catherine_de_m_dicis.Avatar.webp?1771407950742",
   "system": {
     "caracteristiques": {
       "savoir": {
@@ -2235,7 +2235,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "artwork/Te%20deum%20pour%20un%20massacre/Personnages/Catherine_de_M%C3%A9dicis_-_atelier_de_Fran%C3%A7ois_Clouet.jpg",
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/CharacterArtwork/catherine_de_m_dicis.Token.webp?1771407950742",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -2337,8 +2337,8 @@
     "systemId": "fvtt-te-deum",
     "systemVersion": "13.0.12",
     "createdTime": 1766003890295,
-    "modifiedTime": 1766003890295,
-    "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+    "modifiedTime": 1771407950785,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
   },
   "_key": "!actors!ukDmEUWw05gCYSRM"
 }

@@ -1,14 +1,15 @@
-2025/12/17-21:35:24.344 1cf4 Recovering log #377
-2025/12/17-21:35:24.841 1cf4 Delete type=0 #377
-2025/12/17-21:35:24.841 1cf4 Delete type=3 #376
-2025/12/17-21:35:24.898 22cc Level-0 table #381: started
-2025/12/17-21:35:24.929 22cc Level-0 table #381: 34166 bytes OK
-2025/12/17-21:35:24.983 22cc Delete type=0 #379
-2025/12/17-21:35:24.983 22cc Manual compaction at level-0 from '!folders!NbkSSIJxDixyhFuI' @ 72057594037927935 : 1 .. '!journal.pages!tscBqvjIMXh0vUhy.EZwsEiIPvxnAzKVg' @ 0 : 0; will stop at '!journal.pages!tscBqvjIMXh0vUhy.EZwsEiIPvxnAzKVg' @ 104 : 1
-2025/12/17-21:35:24.983 22cc Compacting 1@0 + 1@1 files
-2025/12/17-21:35:25.039 22cc Generated table #382@0: 41 keys, 34166 bytes
-2025/12/17-21:35:25.039 22cc Compacted 1@0 + 1@1 files => 34166 bytes
-2025/12/17-21:35:25.116 22cc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/12/17-21:35:25.116 22cc Delete type=2 #305
-2025/12/17-21:35:25.116 22cc Delete type=2 #381
-2025/12/17-21:35:25.116 22cc Manual compaction at level-0 from '!journal.pages!tscBqvjIMXh0vUhy.EZwsEiIPvxnAzKVg' @ 104 : 1 .. '!journal.pages!tscBqvjIMXh0vUhy.EZwsEiIPvxnAzKVg' @ 0 : 0; will stop at (end)
+2026/02/18-16:05:58.748 6898 Recovering log #562
+2026/02/18-16:05:58.997 6898 Delete type=0 #562
+2026/02/18-16:05:58.998 6898 Delete type=3 #560
+2026/02/18-16:05:59.073 30bc Level-0 table #566: started
+2026/02/18-16:05:59.141 30bc Level-0 table #566: 132216 bytes OK
+2026/02/18-16:05:59.194 30bc Delete type=0 #564
+2026/02/18-16:05:59.194 30bc Manual compaction at level-0 from '!folders!JC3uUAOw2fo5ljZP' @ 72057594037927935 : 1 .. '!journal.pages!zq70RZoBBjKP6Wqj.wtoubNc92wk1JYgS' @ 0 : 0; will stop at '!journal.pages!jiQCjYFPQp0Gb1Vv.wi5EIfbN5csqA5x7' @ 693 : 1
+2026/02/18-16:05:59.194 30bc Compacting 2@0 + 1@1 files
+2026/02/18-16:05:59.241 30bc Generated table #567@0: 180 keys, 132216 bytes
+2026/02/18-16:05:59.241 30bc Compacted 2@0 + 1@1 files => 132216 bytes
+2026/02/18-16:05:59.315 30bc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/18-16:05:59.315 30bc Delete type=2 #553
+2026/02/18-16:05:59.315 30bc Delete type=2 #561
+2026/02/18-16:05:59.316 30bc Delete type=2 #566
+2026/02/18-16:05:59.316 30bc Manual compaction at level-0 from '!journal.pages!jiQCjYFPQp0Gb1Vv.wi5EIfbN5csqA5x7' @ 693 : 1 .. '!journal.pages!zq70RZoBBjKP6Wqj.wtoubNc92wk1JYgS' @ 0 : 0; will stop at (end)

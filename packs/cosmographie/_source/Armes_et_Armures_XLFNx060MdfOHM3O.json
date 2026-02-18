@@ -21,7 +21,7 @@
         "controls": true,
         "volume": 0.5
       },
-      "src": "artwork/Te%20deum%20pour%20un%20massacre/r%C3%A8gles/Armes%20cac.png",
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/r%C3%A8gles/Armes%20cac.png",
       "ownership": {
         "default": -1,
         "eEIYuKsSHSBNY69g": 3
@@ -31,10 +31,11 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": "fvtt-te-deum",
         "systemVersion": "13.0.10",
-        "lastModifiedBy": null
+        "lastModifiedBy": "NLQVhS9RJ3bE5C95",
+        "modifiedTime": 1771404811336
       },
       "category": null,
       "_key": "!journal.pages!XLFNx060MdfOHM3O.wOFJ87QiSSIChWhm"
@@ -59,7 +60,7 @@
         "controls": true,
         "volume": 0.5
       },
-      "src": "artwork/Te%20deum%20pour%20un%20massacre/r%C3%A8gles/armes%20a%20feu.png",
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/r%C3%A8gles/armes%20a%20feu.png",
       "ownership": {
         "default": -1,
         "eEIYuKsSHSBNY69g": 3
@@ -69,10 +70,11 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": "fvtt-te-deum",
         "systemVersion": "13.0.10",
-        "lastModifiedBy": null
+        "lastModifiedBy": "NLQVhS9RJ3bE5C95",
+        "modifiedTime": 1771404833100
       },
       "category": null,
       "_key": "!journal.pages!XLFNx060MdfOHM3O.VSgiOfsfWii7CU84"
@@ -97,7 +99,7 @@
         "controls": true,
         "volume": 0.5
       },
-      "src": "artwork/Te%20deum%20pour%20un%20massacre/r%C3%A8gles/armures.png",
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/r%C3%A8gles/armures.png",
       "ownership": {
         "default": -1,
         "eEIYuKsSHSBNY69g": 3
@@ -107,10 +109,11 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": "fvtt-te-deum",
         "systemVersion": "13.0.10",
-        "lastModifiedBy": null
+        "lastModifiedBy": "NLQVhS9RJ3bE5C95",
+        "modifiedTime": 1771404847698
       },
       "category": null,
       "_key": "!journal.pages!XLFNx060MdfOHM3O.D3sXp7y11FifoBuC"
@@ -126,15 +129,15 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.350",
+    "coreVersion": "13.351",
     "systemId": "fvtt-te-deum",
     "systemVersion": "13.0.10",
     "createdTime": 1762968765149,
-    "modifiedTime": 1762981307908,
-    "lastModifiedBy": "eEIYuKsSHSBNY69g"
+    "modifiedTime": 1771423170043,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
   },
   "categories": [],
   "_id": "XLFNx060MdfOHM3O",
-  "sort": 100000,
+  "sort": 300000,
   "_key": "!journal!XLFNx060MdfOHM3O"
 }

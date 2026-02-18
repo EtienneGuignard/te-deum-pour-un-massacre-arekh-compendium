@@ -1,0 +1,65 @@
+{
+  "folder": "JC3uUAOw2fo5ljZP",
+  "name": "Matthieu de Vauzelles",
+  "_id": "B3ZVV7O0F5JT8XSK",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Biographie",
+      "type": "text",
+      "_id": "6Yiq5gt4bVEjhzQG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span style=\"color:#ffffff;font-size:15px\">Juriste, docteur de droit, <strong>Matthieu de Vauzelles</strong> assuma de nombreuses charges publiques à Lyon :</span></p><p style=\"margin-bottom:0cm;caret-color:#000000;padding-left:30px\"><span style=\"color:#ffffff;font-size:15px\">- à la Sénéchaussée (cour de justice royale) : lieutenant particulier du sénéchal, juge-mage, avocat du roi</span></p><p style=\"margin-bottom:0cm;caret-color:#000000;padding-left:30px\"><span style=\"color:#ffffff\">- auprès du chapitre de Saint-Jean : juge civil et criminel des terres de l'église</span></p><p style=\"margin-bottom:0cm;caret-color:#000000;padding-left:30px\"><span style=\"color:#ffffff;font-size:15px\">- au consulat de la ville : il fut échevin</span></p><p style=\"margin-bottom:0cm;caret-color:#000000;padding-left:30px\"><span style=\"color:#ffffff;font-size:15px\">- recteur de l'Aumône générale</span></p><p style=\"margin-bottom:0cm;caret-color:#000000;padding-left:30px\"><span style=\"color:#ffffff;font-size:15px\">- conseiller au parlement de Dombes</span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "wbw2Dphh52Y6u0xe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1770739942591,
+        "modifiedTime": 1770739965113,
+        "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+      },
+      "_key": "!journal.pages!B3ZVV7O0F5JT8XSK.6Yiq5gt4bVEjhzQG"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "wbw2Dphh52Y6u0xe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1770739929292,
+    "modifiedTime": 1770739929292,
+    "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+  },
+  "_key": "!journal!B3ZVV7O0F5JT8XSK"
+}

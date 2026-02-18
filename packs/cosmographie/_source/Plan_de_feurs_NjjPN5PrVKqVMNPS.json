@@ -1,0 +1,64 @@
+{
+  "folder": "vISV35ah6q4uWFH8",
+  "name": "Plan de feurs",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Plan",
+      "type": "image",
+      "_id": "SeevL7uz98soj8zE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/cartes/img-3(1).jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!NjjPN5PrVKqVMNPS.SeevL7uz98soj8zE"
+    }
+  ],
+  "categories": [],
+  "ownership": {
+    "default": 0,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771422794498,
+    "modifiedTime": 1771422794498,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_id": "NjjPN5PrVKqVMNPS",
+  "sort": 0,
+  "_key": "!journal!NjjPN5PrVKqVMNPS"
+}

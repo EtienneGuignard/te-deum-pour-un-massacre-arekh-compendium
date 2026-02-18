@@ -1,0 +1,480 @@
+{
+  "name": "lyon-1",
+  "navigation": false,
+  "navOrder": 0,
+  "background": {
+    "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/cartes/ea739bed-81f0-419a-999e-5dfb3d8c5961.jpg",
+    "anchorX": 0,
+    "anchorY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": null,
+  "thumb": "worlds/le-rimailleur-ferraille/assets/scenes/oTDOqr2msy4GiB3Z-thumb.webp",
+  "width": 6222,
+  "height": 4715,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 0,
+    "size": 100,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 2,
+    "units": "m"
+  },
+  "tokenVision": false,
+  "fog": {
+    "exploration": true,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "globalLight": {
+      "enabled": false,
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "entryId": "ZW2Xi7pMqhjmy5LW",
+      "pageId": null,
+      "flags": {
+        "anchor": {
+          "slug": ""
+        },
+        "levels": {
+          "rangeTop": null
+        },
+        "pin-cushion": {
+          "pinIsTransparent": true,
+          "showOnlyToGM": false,
+          "hasBackground": false,
+          "ratio": 1,
+          "numberWsSuffixOnNameplate": 0,
+          "numberHsSuffixOnNameplate": 0,
+          "textAlwaysVisible": false,
+          "hideLabel": false,
+          "doNotShowJournalPreview": true,
+          "previewAsTextSnippet": false,
+          "tooltipCustomDescription": "",
+          "tooltipShowDescription": true,
+          "tooltipShowTitle": true,
+          "tooltipPlacement": "e",
+          "tooltipColor": "",
+          "tooltipForceRemove": false,
+          "tooltipSmartPlacement": false,
+          "showImage": false
+        }
+      },
+      "global": false,
+      "x": 2937,
+      "y": 3415,
+      "elevation": 0,
+      "sort": 0,
+      "iconSize": 150,
+      "texture": {
+        "tint": "#ffffff",
+        "src": "assets/tokens/te%20deum/cullier.png",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "alphaThreshold": 0
+      },
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#ffffff",
+      "textAnchor": 1,
+      "_id": "PsRNmnDlGFPZKMGI",
+      "_key": "!scenes.notes!TCZHcVQgRAmDgXiz.PsRNmnDlGFPZKMGI"
+    },
+    {
+      "x": 2886,
+      "y": 3052,
+      "entryId": "FMZBxkqS4PdoTUYD",
+      "_id": "pM9rhjjWWMemvEfs",
+      "pageId": null,
+      "elevation": 0,
+      "sort": 1,
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "iconSize": 200,
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textAnchor": 1,
+      "textColor": "#ffffff",
+      "global": false,
+      "flags": {
+        "pin-cushion": {
+          "pinIsTransparent": true,
+          "showOnlyToGM": false,
+          "hasBackground": false,
+          "ratio": 1,
+          "numberWsSuffixOnNameplate": 0,
+          "numberHsSuffixOnNameplate": 0,
+          "textAlwaysVisible": false,
+          "hideLabel": false,
+          "doNotShowJournalPreview": true,
+          "previewAsTextSnippet": false,
+          "tooltipCustomDescription": "",
+          "tooltipShowDescription": true,
+          "tooltipShowTitle": true,
+          "tooltipPlacement": "e",
+          "tooltipColor": "",
+          "tooltipForceRemove": false,
+          "tooltipSmartPlacement": false,
+          "showImage": false
+        },
+        "anchor": {
+          "slug": ""
+        },
+        "levels": {
+          "rangeTop": null
+        }
+      },
+      "text": "",
+      "_key": "!scenes.notes!TCZHcVQgRAmDgXiz.pM9rhjjWWMemvEfs"
+    },
+    {
+      "entryId": null,
+      "pageId": null,
+      "flags": {
+        "anchor": {
+          "slug": ""
+        },
+        "levels": {
+          "rangeTop": null
+        },
+        "pin-cushion": {
+          "pinIsTransparent": true,
+          "showOnlyToGM": false,
+          "hasBackground": false,
+          "ratio": 1,
+          "numberWsSuffixOnNameplate": 0,
+          "numberHsSuffixOnNameplate": 0,
+          "textAlwaysVisible": false,
+          "hideLabel": false,
+          "doNotShowJournalPreview": true,
+          "previewAsTextSnippet": false,
+          "tooltipCustomDescription": "",
+          "tooltipShowDescription": true,
+          "tooltipShowTitle": true,
+          "tooltipPlacement": "e",
+          "tooltipColor": "",
+          "tooltipForceRemove": false,
+          "tooltipSmartPlacement": false,
+          "showImage": false
+        }
+      },
+      "global": false,
+      "x": 6551,
+      "y": 2307,
+      "elevation": 0,
+      "sort": 0,
+      "iconSize": 100,
+      "texture": {
+        "tint": "#ffffff",
+        "src": "icons/svg/book.svg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "alphaThreshold": 0
+      },
+      "text": "Chateau Pierre Scize",
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#ffffff",
+      "textAnchor": 1,
+      "_id": "2EAlwknqC7hD2wCi",
+      "_key": "!scenes.notes!TCZHcVQgRAmDgXiz.2EAlwknqC7hD2wCi"
+    },
+    {
+      "x": 3217,
+      "y": 2538,
+      "entryId": "X7yIQKIbqZ5a5ZOG",
+      "_id": "cp2PHRGCjcZTKw5n",
+      "pageId": null,
+      "elevation": 0,
+      "sort": 2,
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "iconSize": 40,
+      "fontFamily": "Signika",
+      "fontSize": 31,
+      "textAnchor": 1,
+      "textColor": "#ffffff",
+      "global": false,
+      "flags": {
+        "pin-cushion": {
+          "pinIsTransparent": true,
+          "showOnlyToGM": false,
+          "hasBackground": false,
+          "ratio": 1,
+          "numberWsSuffixOnNameplate": 0,
+          "numberHsSuffixOnNameplate": 0,
+          "textAlwaysVisible": false,
+          "hideLabel": false,
+          "doNotShowJournalPreview": true,
+          "previewAsTextSnippet": false,
+          "tooltipCustomDescription": "",
+          "tooltipShowDescription": true,
+          "tooltipShowTitle": true,
+          "tooltipPlacement": "e",
+          "tooltipColor": "",
+          "tooltipForceRemove": false,
+          "tooltipSmartPlacement": false,
+          "showImage": false
+        },
+        "anchor": {
+          "slug": ""
+        },
+        "levels": {
+          "rangeTop": null
+        }
+      },
+      "text": "",
+      "_key": "!scenes.notes!TCZHcVQgRAmDgXiz.cp2PHRGCjcZTKw5n"
+    },
+    {
+      "entryId": null,
+      "pageId": null,
+      "flags": {
+        "anchor": {
+          "slug": ""
+        },
+        "levels": {
+          "rangeTop": null
+        },
+        "pin-cushion": {
+          "pinIsTransparent": true,
+          "showOnlyToGM": false,
+          "hasBackground": false,
+          "ratio": 1,
+          "numberWsSuffixOnNameplate": 0,
+          "numberHsSuffixOnNameplate": 0,
+          "textAlwaysVisible": false,
+          "hideLabel": false,
+          "doNotShowJournalPreview": true,
+          "previewAsTextSnippet": false,
+          "tooltipCustomDescription": "",
+          "tooltipShowDescription": true,
+          "tooltipShowTitle": true,
+          "tooltipPlacement": "e",
+          "tooltipColor": "",
+          "tooltipForceRemove": false,
+          "tooltipSmartPlacement": false,
+          "showImage": false
+        }
+      },
+      "global": false,
+      "x": 4017,
+      "y": 3833,
+      "elevation": 0,
+      "sort": 0,
+      "iconSize": 100,
+      "texture": {
+        "tint": "#ffffff",
+        "src": "icons/svg/book.svg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "alphaThreshold": 0
+      },
+      "text": "Eglise Saint-Nizier",
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#ffffff",
+      "textAnchor": 1,
+      "_id": "FK3B8sDaN7vspdkl",
+      "_key": "!scenes.notes!TCZHcVQgRAmDgXiz.FK3B8sDaN7vspdkl"
+    },
+    {
+      "entryId": null,
+      "pageId": null,
+      "flags": {
+        "anchor": {
+          "slug": ""
+        },
+        "levels": {
+          "rangeTop": null
+        },
+        "pin-cushion": {
+          "pinIsTransparent": true,
+          "showOnlyToGM": false,
+          "hasBackground": false,
+          "ratio": 1,
+          "numberWsSuffixOnNameplate": 0,
+          "numberHsSuffixOnNameplate": 0,
+          "textAlwaysVisible": false,
+          "hideLabel": false,
+          "doNotShowJournalPreview": true,
+          "previewAsTextSnippet": false,
+          "tooltipCustomDescription": "",
+          "tooltipShowDescription": true,
+          "tooltipShowTitle": true,
+          "tooltipPlacement": "e",
+          "tooltipColor": "",
+          "tooltipForceRemove": false,
+          "tooltipSmartPlacement": false,
+          "showImage": false
+        }
+      },
+      "global": false,
+      "x": 4089,
+      "y": 4369,
+      "elevation": 0,
+      "sort": 0,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#ffffff",
+        "src": "icons/svg/book.svg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "alphaThreshold": 0
+      },
+      "text": "Collège de la trinité",
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#ffffff",
+      "textAnchor": 1,
+      "_id": "5WmdvZrDswhmdZqd",
+      "_key": "!scenes.notes!TCZHcVQgRAmDgXiz.5WmdvZrDswhmdZqd"
+    }
+  ],
+  "sounds": [],
+  "regions": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "wbw2Dphh52Y6u0xe": 3
+  },
+  "flags": {
+    "levels": {
+      "backgroundElevation": 0,
+      "lightMasking": true,
+      "weatherElevation": null
+    },
+    "wall-height": {
+      "advancedVision": true
+    },
+    "multi-token-edit": {
+      "blackBars": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771423883610,
+    "modifiedTime": 1771423885533,
+    "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+  },
+  "navName": "",
+  "_id": "TCZHcVQgRAmDgXiz",
+  "active": false,
+  "sort": 400000,
+  "_key": "!scenes!TCZHcVQgRAmDgXiz"
+}

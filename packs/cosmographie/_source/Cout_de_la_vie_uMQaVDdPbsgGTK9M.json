@@ -1,0 +1,23 @@
+{
+  "type": "JournalEntry",
+  "folder": null,
+  "name": "Cout de la vie",
+  "color": null,
+  "sorting": "a",
+  "_id": "uMQaVDdPbsgGTK9M",
+  "description": "",
+  "sort": 600000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771422676683,
+    "modifiedTime": 1771422864857,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!folders!uMQaVDdPbsgGTK9M"
+}

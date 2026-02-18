@@ -1,0 +1,101 @@
+{
+  "name": "Nom de lieu",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Tavernes",
+      "type": "text",
+      "_id": "f0Lm6QIbi3QXb95r",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><table><tbody><tr><td><p>Le chat Barré</p></td><td><p>Le lapin au sirop</p></td></tr><tr><td><p>Au cruchon noirci</p></td><td><p>Aux deux coquatrices</p></td></tr><tr><td><p>A l'oie partageuse</p></td><td><p>Chez Morcar</p></td></tr><tr><td><p>Le Boeuf Blanc ( hottelerie feurs)</p></td><td><p>La Pie dansante</p></td></tr><tr><td><p>Le règne du marin</p></td><td><p>A la chope argentée</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!vVNU98WLq5tEuOfk.f0Lm6QIbi3QXb95r"
+    },
+    {
+      "sort": 200000,
+      "name": "Hotelleries",
+      "type": "text",
+      "_id": "tVXxG0jNf0a4VbGQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><table><tbody><tr><td><p>Hotel du roy d'espagne</p></td><td><p>Auberge de Peyrbeille</p></td></tr><tr><td><p>Auberge Rouge</p></td><td><p>La Main d'argent</p></td></tr><tr><td><p>Le chapeu rouge</p></td><td><p>Cheval blanc</p></td></tr><tr><td><p>Grand cerf</p></td><td><p>le Lion d'or</p></td></tr><tr><td><p>Le Puy d'Or</p></td><td><p>Hôtel Saint-Louis</p></td></tr><tr><td><p>Les Trois Rois</p></td><td><p>L'Ecu de France</p></td></tr><tr><td><p>Vuillot</p></td><td><p>Hôtellerie du Val d'Or</p></td></tr><tr><td><p>Hôtel le Vert Galant</p></td><td><p>Hôtel Ricordeau</p></td></tr><tr><td><p>Auberge des Adrets</p></td><td><p>Auberge du Pot de cuivre</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!vVNU98WLq5tEuOfk.tVXxG0jNf0a4VbGQ"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "ownership": {
+    "default": 0,
+    "eEIYuKsSHSBNY69g": 3,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771422362830,
+    "modifiedTime": 1771422362830,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_id": "vVNU98WLq5tEuOfk",
+  "sort": 0,
+  "_key": "!journal!vVNU98WLq5tEuOfk"
+}

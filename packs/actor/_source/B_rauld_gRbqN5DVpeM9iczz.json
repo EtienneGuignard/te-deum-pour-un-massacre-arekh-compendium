@@ -1,0 +1,23 @@
+{
+  "type": "Actor",
+  "folder": "k0N70Cu4ukeaH3hi",
+  "name": "Bérauld",
+  "color": null,
+  "sorting": "a",
+  "_id": "gRbqN5DVpeM9iczz",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771408052790,
+    "modifiedTime": 1771408052790,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!folders!gRbqN5DVpeM9iczz"
+}

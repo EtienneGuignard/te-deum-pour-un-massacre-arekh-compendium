@@ -1,0 +1,101 @@
+{
+  "folder": "NbkSSIJxDixyhFuI",
+  "name": "1561-Coloque de poissy",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Description",
+      "type": "text",
+      "_id": "Dx6Pi3uRtzJsoqIw",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Le colloque de Poissy est une conférence religieuse qui s’est tenue du 9 septembre au 14 octobre 1561 dans le prieuré royal Saint-Louis de Poissy.</p><p>En vue de maintenir la paix religieuse en France, la reine mère Catherine de Médicis tente d’effectuer un rapprochement entre catholiques et protestants, en réunissant quarante-six prélats catholiques, douze ministres du culte protestant et une quarantaine de théologiens.</p><p>https://fr.wikipedia.org/wiki/Colloque_de_Poissy</p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!zCkb50EUTHEbZREf.Dx6Pi3uRtzJsoqIw"
+    },
+    {
+      "sort": 0,
+      "name": "Gravure",
+      "type": "image",
+      "_id": "ucTYglBuY97ZvCuA",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Colloque_de_Poissy.jpeg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!zCkb50EUTHEbZREf.ucTYglBuY97ZvCuA"
+    }
+  ],
+  "categories": [],
+  "ownership": {
+    "default": 0,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771422565673,
+    "modifiedTime": 1771422569954,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_id": "zCkb50EUTHEbZREf",
+  "sort": 300000,
+  "_key": "!journal!zCkb50EUTHEbZREf"
+}
