@@ -1,0 +1,216 @@
+{
+  "folder": "uMQaVDdPbsgGTK9M",
+  "name": "Salaire",
+  "_id": "BkrSQgjKkTKlbavC",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Salaires journalier batiment",
+      "type": "image",
+      "_id": "7bmV5hZx9lCm68qV",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/fig%20335%20-%20salaires%20journaliers%20du%20b%C3%A2timent.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!BkrSQgjKkTKlbavC.7bmV5hZx9lCm68qV"
+    },
+    {
+      "sort": 200000,
+      "name": "Salaire journalier metier agricole",
+      "type": "image",
+      "_id": "DV8RvNFqbxT8brBF",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/fig%20336%20-%20m%C3%A9tiers%20agricoles%201560%20-%201600.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!BkrSQgjKkTKlbavC.DV8RvNFqbxT8brBF"
+    },
+    {
+      "sort": 300000,
+      "name": "Salaire milieu de service",
+      "type": "image",
+      "_id": "BH0IZhTOtdyFOJCM",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/salaire%20employ%C3%A9%20hotel%20dieu.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!BkrSQgjKkTKlbavC.BH0IZhTOtdyFOJCM"
+    },
+    {
+      "sort": 400000,
+      "name": "Salaire de l'armée royal",
+      "type": "image",
+      "_id": "dNL16aHanKerZHtU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": "Ce qui donne envrons 4 sous pour les plus basses solde sur la periode 1561-1565 (*les soldes sont sans les avantages en nature)"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/Salaire%20arm%C3%A9e%20royal%201586.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!BkrSQgjKkTKlbavC.dNL16aHanKerZHtU"
+    },
+    {
+      "sort": 0,
+      "name": "La journée de travail",
+      "type": "text",
+      "_id": "zzmF1Fw5gBAbSo0z",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p> le salaire peut être payé :</p><ul><li><p>à la tache </p></li><li><p>Au temps (12h par jour en moyenne)</p></li><li><p>à la commande</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "eEIYuKsSHSBNY69g": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!BkrSQgjKkTKlbavC.zzmF1Fw5gBAbSo0z"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "eEIYuKsSHSBNY69g": 3,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771422676693,
+    "modifiedTime": 1771422676693,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!journal!BkrSQgjKkTKlbavC"
+}

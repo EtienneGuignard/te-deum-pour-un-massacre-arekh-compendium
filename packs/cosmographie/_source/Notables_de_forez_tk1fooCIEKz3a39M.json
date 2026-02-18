@@ -1,0 +1,655 @@
+{
+  "folder": "vISV35ah6q4uWFH8",
+  "name": "Notables de forez",
+  "pages": [
+    {
+      "sort": 300000,
+      "name": "maistre Jehan Blanchichon",
+      "type": "text",
+      "_id": "ActlcnJgm3nI31CE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Chastellain de la baronnie de Cozan, réside à Boën </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.ActlcnJgm3nI31CE"
+    },
+    {
+      "sort": 200000,
+      "name": "Claude de Lévis",
+      "type": "text",
+      "_id": "PfaBpf5a8dZzurLK",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>comte <a title=\"Bassignac\" href=\"https://man8rove.com/fr/seigneurie-de-charlus/351iraa2-bassignac\">de Charlus</a> seigneur de Beauregard, <a title=\"Lurcy-Lévis\" href=\"https://man8rove.com/fr/seigneurie-de-poligny/9umw8ta2-lurcy-levis\">de Poligny</a> , de Lourdy baron de Couzan </p><p></p><p>https://man8rove.com/fr/profile/0b9xizh7-claude-de-levis</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.PfaBpf5a8dZzurLK"
+    },
+    {
+      "sort": 400000,
+      "name": "Jean Papon",
+      "type": "text",
+      "_id": "16M4Y6kAeh9szWrh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://fr.wikipedia.org/wiki/Jean_Papon</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.16M4Y6kAeh9szWrh"
+    },
+    {
+      "sort": 500000,
+      "name": "Jacques du Crozet",
+      "type": "text",
+      "_id": "IiOJky1PKZLX3n2W",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span><em>Jacques du Crozet</em> (lieutenant des Eaux et Forêts)</span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.IiOJky1PKZLX3n2W"
+    },
+    {
+      "sort": 600000,
+      "name": "Pierre Paparin",
+      "type": "text",
+      "_id": "6Ky1MCkfm8Fmx0CE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://fr.wikipedia.org/wiki/Pierre_Paparin</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.6Ky1MCkfm8Fmx0CE"
+    },
+    {
+      "sort": 700000,
+      "name": "Estienne du Tronchet",
+      "type": "text",
+      "_id": "Dlw8GJCDRlKRKb7K",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://fr.wikipedia.org/wiki/Estienne_du_Tronchet</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.Dlw8GJCDRlKRKb7K"
+    },
+    {
+      "sort": 450000,
+      "name": "Loÿs Papon",
+      "type": "text",
+      "_id": "CHa7To9oCX82Xo2w",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://fr.wikipedia.org/wiki/Lo%C3%BFs_Papon</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.CHa7To9oCX82Xo2w"
+    },
+    {
+      "sort": 800000,
+      "name": "Gaspard Parparin",
+      "type": "text",
+      "_id": "ZccAAaOupoDthmch",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Poète et bourgeois</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.ZccAAaOupoDthmch"
+    },
+    {
+      "sort": 900000,
+      "name": "Jean Papire Masson",
+      "type": "text",
+      "_id": "15QS5IdGXXEMUH3v",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://fr.wikipedia.org/wiki/Jean_Papire_Masson</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.15QS5IdGXXEMUH3v"
+    },
+    {
+      "sort": 1000000,
+      "name": "Claude de la Roue",
+      "type": "text",
+      "_id": "yELNOBkxvrMdbSEO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Apothicaire-médecin</p><p>https://numelyo.bm-lyon.fr/f_view/BML:BML_06PRV01000Ms309876</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.yELNOBkxvrMdbSEO"
+    },
+    {
+      "sort": 1100000,
+      "name": "Antoine Ier d'Albon",
+      "type": "text",
+      "_id": "PnFLf8jG03BglD8y",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://fr.wikipedia.org/wiki/Antoine_Ier_d%27Albon</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.PnFLf8jG03BglD8y"
+    },
+    {
+      "sort": 1200000,
+      "name": "Hector de Riny",
+      "type": "text",
+      "_id": "eb7br10FHQc6TAve",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>grand-prieur de Saint-Antoine de Vienne et de Saint-Martin de Randans-les-Feurs en 1553</p><p><a href=\"https://books.google.fr/books?id=SZw8AAAAYAAJ&amp;pg=PA142-IA1&amp;hl=fr&amp;source=gbs_selected_pages&amp;cad=1#v=onepage&amp;q&amp;f=false\">[source, page 127 pdf]</a></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.eb7br10FHQc6TAve"
+    },
+    {
+      "sort": 1300000,
+      "name": "Antoine du verdier",
+      "type": "text",
+      "_id": "YTNTN41ykAXpet4d",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://numelyo.bm-lyon.fr/f_view/BML:BML_06PRV01000106046870</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.YTNTN41ykAXpet4d"
+    },
+    {
+      "sort": 1400000,
+      "name": "Jean du Rosier",
+      "type": "text",
+      "_id": "RQGfiVKEbBHgHUtm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>capitaine-châtelain et juge-prévôt.</p><p> Il avait pour lieutenant honorable Aubert Limosin .</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.RQGfiVKEbBHgHUtm"
+    },
+    {
+      "sort": 1500000,
+      "name": "Aimé Pietre",
+      "type": "text",
+      "_id": "oif6MfUkAM4FMoUR",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Les fonctions de juge de la ville de Feurs étaient remplies par hono-</p><p>rable homme Messire Aimé Pietre , bourgeois dudit</p><p>lieu</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.oif6MfUkAM4FMoUR"
+    },
+    {
+      "sort": 1600000,
+      "name": "Arthaud d'Apchon",
+      "type": "text",
+      "_id": "MDbGbtkvPUQFIteh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p> seigneur de Montrond </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.MDbGbtkvPUQFIteh"
+    },
+    {
+      "sort": 1700000,
+      "name": "Autres noms",
+      "type": "text",
+      "_id": "8mh5KPGhQ3iaCPfN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>familles de Pravieuxet Saconin</p><p>D'Apchon , le seigneur de ce château et</p><p>lieutenant du gouverneur du Forez ,</p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tk1fooCIEKz3a39M.8mh5KPGhQ3iaCPfN"
+    }
+  ],
+  "categories": [],
+  "ownership": {
+    "default": 2,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771422798643,
+    "modifiedTime": 1771422798643,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_id": "tk1fooCIEKz3a39M",
+  "sort": 0,
+  "_key": "!journal!tk1fooCIEKz3a39M"
+}

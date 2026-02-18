@@ -21,7 +21,7 @@
         "controls": true,
         "volume": 0.5
       },
-      "src": "artwork/Te%20deum%20pour%20un%20massacre/enviroments/Maison_Renaissance%2C_Langres_2013.JPG",
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/Maison_Renaissance%2C_Langres_2013.JPG",
       "ownership": {
         "default": -1,
         "eEIYuKsSHSBNY69g": 3
@@ -31,10 +31,11 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": "fvtt-te-deum",
         "systemVersion": "13.0.10",
-        "lastModifiedBy": null
+        "lastModifiedBy": "NLQVhS9RJ3bE5C95",
+        "modifiedTime": 1771405219010
       },
       "category": null,
       "_key": "!journal.pages!AgMysXdE4jYU2jeF.myQqM4SkaIQYDjP8"

@@ -1,0 +1,104 @@
+{
+  "folder": "X6kocsSsNMkfcFV7",
+  "name": "Histoire",
+  "_id": "ncrtoGS7jkNJP3pV",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Sources",
+      "type": "text",
+      "_id": "nSvjmpJgpUHHGfvG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://dn790001.ca.archive.org/0/items/prcisdelhistoi00pina/prcisdelhistoi00pina.pdf</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771410844628,
+        "modifiedTime": 1771410848579,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!ncrtoGS7jkNJP3pV.nSvjmpJgpUHHGfvG"
+    },
+    {
+      "sort": 0,
+      "name": "Chronique",
+      "type": "text",
+      "_id": "Er52rJ3QFsjVFwc6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Au début du xiesiècle, Eudes II, comte de Blois, réunit sous sa domination les comtés de Troyes, Meaux, Chartres et Blois. Sous le règne de cette maison de Blois-Champagne, laprovince vit un grand essor économique, commercial et culturel. En 1284, les épousailles de la fille du comte Henri III avec  Philippe le Bel font entrer la Champagne dans le domaine royal. Aux xive et xve siècles, les ravages de la guerre de Cent  Ans, la grande peste, les révoltes paysannes  et la guerre entre le roi Louis XI et le  duc de Bourgogne, Charles le Téméraire,  éprouvent durement la province.  Elle se relève néanmoins avec le retour  de la paix, retrouvant un dynamisme  économique avec la draperie, la tapisserie, l'imprimerie ou encore la métallurgie. Ceci se traduit par une sensible augmentation démographique pour les villes comme Troyes ou Reims, et un enrichissement notable de la grande bourgeoisie.</p><p> C'est également une période où l'autorité royale se renforce sur les provinces, dont la Champagne, avec des restructurations fiscales et administratives (création de la généralité de Châlons en 1542), militaires (gouvernement de Champagne), et judi￾ciaires (réforme des bailliages et présidiaux, rédaction des coutumes). De 1521 à 1546, François Ier roi de France, affronte l'empereur Charles Quint. La Champagne subit trois invasions impériales, qui restent toutefois limitées : même si elles conduisent à ruiner quelques localités, elles n'affectent pas profondément la province, contrairement aux guerres religieuses qui vont suivre. </p><h2>Le théâtre des guerres de Religion </h2><p>La proximité de l'Allemagne et de la Suisse favorise l'influence de la Réforme sur la Champagne, auprès des nobles d'abord, puis dans la bourgeoisie. L'activisme des premiers réformés champenois, qui vont jusqu'à détruire des statues de saints, entraîne une violente réaction de l'Église catholique, et dès la fin des années 1530, les hérétiques sont envoyés au bûcher (Reims, 1537 ; Sens, 1540 ; Troyes, 1542 ; Meaux, 1546). </p><p>Deux événements champenois vont précipiter le royaume dans la première guerre civile : le massacre de protestants à Wassy par le duc François de Guise et sa troupe (1er mars 1562) et un massacre semblable à Sens le mois suivant. Les protes￾tants champenois prennent les armes, sous le commandement d'Antoine de Croy, seigneur de Moncornet et comte de Porcien, et attaquent en particulier Sainte-Menehould, qu'ils n'arrivent pas à prendre.</p><p></p><p>L'année 1564 met la Champagne au cœur de l'actualité politique et religieuse, avec le long séjour du roi Charles IX au cours de son tour du royaume puis le concile provincial convoqué à Reims par le cardinal de Lorraine pour définir les moyens de mettre en œuvre la Contre￾Réforme lancée par le concile de Trente. </p><h2>Ligueurs contre partisans du roi</h2><p></p><p>Les années suivantes vont faire tomber sur la Champagne bien des malheurs de la guerre, que ce soit les destructions nées des affrontements directs entre armées catholiques et huguenots, ou les pillages auxquels se livrent, sur le pays, ces troupes et leurs alliés mercenaires (comme les protestants allemands) lorsque les uns ou les autres ne reçoivent pas leur solde. Après la création de la Sainte Ligue (1576) et les victoires d'Henri de Guise « le Balafré »sur les armées allemandes qui ont envahi la Champagne (1587), la province se divise selon ses allégeances : une partie des villes est ligueuse (Reims, Troyes, Chaumont), d'autres penchent pour le roi (Vitry, Sainte-Menehould, Langres) ou évitent de prendre parti (Châlons). </p><p>Toutefois, lorsqu'en 1588, Henri de Guise est assassiné à Blois sur ordre du roi Henri III, celui-ci perd le soutien de presque toute cette province, à l'exception de quelques villes comme Châlons, Sainte-Menehould ou Avize. Un clivage similaire se dessine par la suite entre villes partisanes du cardinal de Bourbon, que les ligueurs reconnaissent comme souverain légitime (Reims, Troyes, Sens, Chaumont) et villes ralliées à Henri de Navarre (Châlons, Langres). </p><p>Jean d'Aumont, maréchal de France et gouverneur de Champagne, chargé par le Navarrais de réduire les ligueurs de Champagne n'arrive pas à ses fins, et le duc de Lorraine, plutôt neutre jusque-là, entre dans la partie du côté des ligueurs. Les affrontements n'aboutissent à rien de décisif si ce n'est la ruine des contrées champenoises. </p><p>Henri IV finit par soumettre la Champagne à son autorité, mais la Ligue y résiste encore jusqu'en 1594 (soumission de Troyes, Sens, Chaumont, Reims) et même en 1595 (reddition de la forteresse </p><p>de Monsaugeon dans le Bassigny).</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771411225589,
+        "modifiedTime": 1771411563054,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!ncrtoGS7jkNJP3pV.Er52rJ3QFsjVFwc6"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771410837120,
+    "modifiedTime": 1771422324935,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!journal!ncrtoGS7jkNJP3pV"
+}

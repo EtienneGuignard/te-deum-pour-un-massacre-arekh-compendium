@@ -1,0 +1,136 @@
+{
+  "folder": "Mnibze1LRw8S18SK",
+  "name": "Conditions",
+  "_id": "jiQCjYFPQp0Gb1Vv",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Intro",
+      "type": "text",
+      "_id": "gqxoWwXdu03kvcMq",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Les conditions de voyage sont difficile le danger va croissant pendant la seconde moitié du XVIème siècle (Guerre, Brigands etc) . On vayage principalement à pied. Les plus fortunés voyage en cheval ou en mulet.</p><p> </p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!jiQCjYFPQp0Gb1Vv.gqxoWwXdu03kvcMq"
+    },
+    {
+      "sort": 200000,
+      "name": "Distance",
+      "type": "text",
+      "_id": "wi5EIfbN5csqA5x7",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>a pied 24 à 30km par jour a ce rythme il faut changer les soulier toutes les deux semaines</p><p>a cheval  jusqu'a 50km par jour mais plutôt 35 -40 km</p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!jiQCjYFPQp0Gb1Vv.wi5EIfbN5csqA5x7"
+    },
+    {
+      "sort": 300000,
+      "name": "Les chemins de France",
+      "type": "pdf",
+      "_id": "YnNduNrsfCLSvfSM",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/autres/La_guide_des_chemins_de_...Estienne_Charles_bpt6k102662d.pdf",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!jiQCjYFPQp0Gb1Vv.YnNduNrsfCLSvfSM"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771427024667,
+    "modifiedTime": 1771427024667,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!journal!jiQCjYFPQp0Gb1Vv"
+}

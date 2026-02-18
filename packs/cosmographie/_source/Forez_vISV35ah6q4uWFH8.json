@@ -1,0 +1,23 @@
+{
+  "type": "JournalEntry",
+  "folder": "uAwIVd5o0JSr0Khd",
+  "name": "Forez",
+  "color": null,
+  "sorting": "a",
+  "_id": "vISV35ah6q4uWFH8",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771422782332,
+    "modifiedTime": 1771422872678,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!folders!vISV35ah6q4uWFH8"
+}

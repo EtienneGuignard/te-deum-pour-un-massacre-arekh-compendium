@@ -1,0 +1,186 @@
+{
+  "folder": "X6kocsSsNMkfcFV7",
+  "name": "Représentation et carte",
+  "_id": "nVOKZA5CxRqrZuob",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Champagne historique",
+      "type": "image",
+      "_id": "IQEqRHx49tjGAQu7",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/cartes/Carte_de_la_Champagne.svg.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771409370524,
+        "modifiedTime": 1771409382722,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!nVOKZA5CxRqrZuob.IQEqRHx49tjGAQu7"
+    },
+    {
+      "sort": 200000,
+      "name": "Wassy",
+      "type": "image",
+      "_id": "qKl42Q7jnAFs6r3t",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/WassyVille.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771409403699,
+        "modifiedTime": 1771409447586,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!nVOKZA5CxRqrZuob.qKl42Q7jnAFs6r3t"
+    },
+    {
+      "sort": 300000,
+      "name": "Notre-Dame de Wassy",
+      "type": "image",
+      "_id": "a5g8ucCHEnjSkq8F",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/920-wassy-wassy-eglise-notre-dame.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771409616300,
+        "modifiedTime": 1771409620463,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!nVOKZA5CxRqrZuob.a5g8ucCHEnjSkq8F"
+    },
+    {
+      "sort": 150000,
+      "name": "Gouvernement de Saint-Dizier",
+      "type": "image",
+      "_id": "aLOvuBKs2XIgtMvW",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/cartes/28_gouvernement_de_St-Dizier_Davanne-Chappier.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771409748327,
+        "modifiedTime": 1771409773475,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!nVOKZA5CxRqrZuob.aLOvuBKs2XIgtMvW"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771409341618,
+    "modifiedTime": 1771409349437,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!journal!nVOKZA5CxRqrZuob"
+}

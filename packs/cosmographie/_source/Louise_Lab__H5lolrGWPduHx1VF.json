@@ -1,0 +1,65 @@
+{
+  "folder": "JC3uUAOw2fo5ljZP",
+  "name": "Louise Labé",
+  "_id": "H5lolrGWPduHx1VF",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Bio",
+      "type": "text",
+      "_id": "v1fR8NCeMYD1w8De",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Poètesse et Humaniste Française \"l<strong>a Belle Cordière\"</strong></p><p>https://fr.wikipedia.org/wiki/Louise_Lab%C3%A9</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "wbw2Dphh52Y6u0xe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1770740951576,
+        "modifiedTime": 1770741210830,
+        "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+      },
+      "_key": "!journal.pages!H5lolrGWPduHx1VF.v1fR8NCeMYD1w8De"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "wbw2Dphh52Y6u0xe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1770740946476,
+    "modifiedTime": 1770740946476,
+    "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+  },
+  "_key": "!journal!H5lolrGWPduHx1VF"
+}

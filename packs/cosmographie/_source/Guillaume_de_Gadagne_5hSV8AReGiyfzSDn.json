@@ -1,0 +1,104 @@
+{
+  "folder": "JC3uUAOw2fo5ljZP",
+  "name": "Guillaume de Gadagne",
+  "_id": "5hSV8AReGiyfzSDn",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Bio",
+      "type": "text",
+      "_id": "aD2M4A9Cg2LKIg9s",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Guillaume de Gadagne, né le 16 janvier 1534 à Lyon et mort le 26 janvier 1601 dans cette même ville, est un militaire et noble français, issu d'une riche famille de banquiers et de commerçants originaire de Pontassieve, ville voisine de Florence, qui fut chassée d'Italie par les Médicis : les Guadagni.</p><p>https://fr.wikipedia.org/wiki/Guillaume_de_Gadagne</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "wbw2Dphh52Y6u0xe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1770742458441,
+        "modifiedTime": 1770742478733,
+        "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+      },
+      "_key": "!journal.pages!5hSV8AReGiyfzSDn.aD2M4A9Cg2LKIg9s"
+    },
+    {
+      "sort": 200000,
+      "name": "Portrait",
+      "type": "text",
+      "_id": "2Wh5bql1Ix0JxUx1",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "wbw2Dphh52Y6u0xe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1770742487830,
+        "modifiedTime": 1770742489372,
+        "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+      },
+      "_key": "!journal.pages!5hSV8AReGiyfzSDn.2Wh5bql1Ix0JxUx1"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "wbw2Dphh52Y6u0xe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1770742440530,
+    "modifiedTime": 1770742440530,
+    "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+  },
+  "_key": "!journal!5hSV8AReGiyfzSDn"
+}

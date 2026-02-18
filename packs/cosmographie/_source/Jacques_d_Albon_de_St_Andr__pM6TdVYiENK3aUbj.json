@@ -1,0 +1,65 @@
+{
+  "folder": "JC3uUAOw2fo5ljZP",
+  "name": "Jacques d'Albon de St André",
+  "_id": "pM6TdVYiENK3aUbj",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Biographie",
+      "type": "text",
+      "_id": "9F02xherfDBX48Oi",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Gouverneur de Lyon</p><p>https://fr.wikipedia.org/wiki/Jacques_d%27Albon_de_Saint-Andr%C3%A9</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "wbw2Dphh52Y6u0xe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1770737886249,
+        "modifiedTime": 1770737930221,
+        "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+      },
+      "_key": "!journal.pages!pM6TdVYiENK3aUbj.9F02xherfDBX48Oi"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "wbw2Dphh52Y6u0xe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1770737868336,
+    "modifiedTime": 1770737868336,
+    "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+  },
+  "_key": "!journal!pM6TdVYiENK3aUbj"
+}

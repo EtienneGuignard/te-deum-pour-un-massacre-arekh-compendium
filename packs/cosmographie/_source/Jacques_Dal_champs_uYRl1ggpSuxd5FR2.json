@@ -1,0 +1,65 @@
+{
+  "folder": "JC3uUAOw2fo5ljZP",
+  "name": "Jacques Daléchamps",
+  "_id": "uYRl1ggpSuxd5FR2",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Biographie",
+      "type": "text",
+      "_id": "i9FfGKB1dAS4pJTJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Médecin, bothaniste etc</p><p></p><p>https://fr.wikipedia.org/wiki/Jacques_Dal%C3%A9champs</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "wbw2Dphh52Y6u0xe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1770741824911,
+        "modifiedTime": 1770741864481,
+        "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+      },
+      "_key": "!journal.pages!uYRl1ggpSuxd5FR2.i9FfGKB1dAS4pJTJ"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "wbw2Dphh52Y6u0xe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1770741667597,
+    "modifiedTime": 1770741667597,
+    "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+  },
+  "_key": "!journal!uYRl1ggpSuxd5FR2"
+}

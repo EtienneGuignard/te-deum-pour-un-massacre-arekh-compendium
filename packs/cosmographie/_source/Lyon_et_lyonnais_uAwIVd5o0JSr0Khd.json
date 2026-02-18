@@ -1,0 +1,23 @@
+{
+  "type": "JournalEntry",
+  "folder": "p5VeFpMdsi6Lqn5B",
+  "name": "Lyon et lyonnais",
+  "color": null,
+  "sorting": "a",
+  "_id": "uAwIVd5o0JSr0Khd",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1770737650442,
+    "modifiedTime": 1771423520076,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!folders!uAwIVd5o0JSr0Khd"
+}

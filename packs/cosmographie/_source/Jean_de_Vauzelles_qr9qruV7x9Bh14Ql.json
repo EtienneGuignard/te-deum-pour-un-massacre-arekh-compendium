@@ -1,0 +1,65 @@
+{
+  "folder": "JC3uUAOw2fo5ljZP",
+  "name": "Jean de Vauzelles",
+  "_id": "qr9qruV7x9Bh14Ql",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Biographie",
+      "type": "text",
+      "_id": "eOyxb2AxDAy8R9zG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Jean de Vauzelles était docteur ès droits, et aussi professeur, après avoir fait des études en Italie. C'était un personnage important,  très impliqué dans la vie publique lyonnaise. Il est le principal organisateur de l'Entrée à Lyon, en 1533, du Dauphin François et d'Éléonore d'Autriche, soeur de Charles Quint, seconde épouse de François 1er. Le livret qui relate cette Entrée est signé de sa devise : \"D'un vrai zèle\".</p><p>https://shs.cairn.info/revue-l-information-litteraire-2006-2-page-32?lang=fr</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "wbw2Dphh52Y6u0xe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1770740114634,
+        "modifiedTime": 1770740258786,
+        "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+      },
+      "_key": "!journal.pages!qr9qruV7x9Bh14Ql.eOyxb2AxDAy8R9zG"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "wbw2Dphh52Y6u0xe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1770740104155,
+    "modifiedTime": 1770740104155,
+    "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+  },
+  "_key": "!journal!qr9qruV7x9Bh14Ql"
+}

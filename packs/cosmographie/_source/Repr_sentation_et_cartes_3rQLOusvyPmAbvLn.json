@@ -1,0 +1,346 @@
+{
+  "folder": "uAwIVd5o0JSr0Khd",
+  "name": "Représentation et cartes",
+  "_id": "3rQLOusvyPmAbvLn",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Vue de la ville",
+      "type": "image",
+      "_id": "hwiBbxqPQMIl11Vb",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/lyon.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771406011519,
+        "modifiedTime": 1771406026737,
+        "lastModifiedBy": "NLQVhS9RJ3bE5C95"
+      },
+      "_key": "!journal.pages!3rQLOusvyPmAbvLn.hwiBbxqPQMIl11Vb"
+    },
+    {
+      "sort": 200000,
+      "name": "lyonnais historique",
+      "type": "image",
+      "_id": "MkjcMs1sRdAwaKFg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/cartes/Carte_du_Lyonnais.svg.png",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "NLQVhS9RJ3bE5C95": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771406099055,
+        "modifiedTime": 1771408385618,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!3rQLOusvyPmAbvLn.MkjcMs1sRdAwaKFg"
+    },
+    {
+      "sort": 300000,
+      "name": "Hotel Dieu",
+      "type": "image",
+      "_id": "Z21sHsWk9pbr76yr",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/lyon/hotel-dieu_et_rue_serpilliere_au_xviie_siecle-bml-1024x738.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771408531871,
+        "modifiedTime": 1771408545770,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!3rQLOusvyPmAbvLn.Z21sHsWk9pbr76yr"
+    },
+    {
+      "sort": 400000,
+      "name": "Hotel gadagne",
+      "type": "image",
+      "_id": "fuIzC8lNa2K0723M",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/lyon/Gadagne.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771408564542,
+        "modifiedTime": 1771408577683,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!3rQLOusvyPmAbvLn.fuIzC8lNa2K0723M"
+    },
+    {
+      "sort": 500000,
+      "name": "Temple de Paradis",
+      "type": "image",
+      "_id": "jS9l1rvlHoMWyTgr",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/lyon/Jean_Perrissin_-_Le_Temple_de_Paradis_(huile_sur_toile%2C_1569-1570).jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771408589993,
+        "modifiedTime": 1771408622026,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!3rQLOusvyPmAbvLn.jS9l1rvlHoMWyTgr"
+    },
+    {
+      "sort": 600000,
+      "name": "Couvent des Célestins",
+      "type": "image",
+      "_id": "Gty7qR4kfURPzqCg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/lyon/Martin_-_Histoire_des_%C3%A9glises_et_chapelles_de_Lyon%2C_1908%2C_tome_I_0072.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771408673341,
+        "modifiedTime": 1771408722317,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!3rQLOusvyPmAbvLn.Gty7qR4kfURPzqCg"
+    },
+    {
+      "sort": 700000,
+      "name": "Prise de lyon Reformés",
+      "type": "image",
+      "_id": "PQhe8YTqzCX2HIBK",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/lyon/Le_Sac_de_Lyon_par_les_R%C3%A9form%C3%A9s_-_Vers1565.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771408758805,
+        "modifiedTime": 1771408764664,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!3rQLOusvyPmAbvLn.PQhe8YTqzCX2HIBK"
+    },
+    {
+      "sort": 800000,
+      "name": "Chateau Pierre Scize",
+      "type": "image",
+      "_id": "P5n2Rb8KZsDejXZ5",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/te-deum-pour-un-massacre-arekh-compendium/assets/enviroments/lyon/pierre-Scize4-HenriIV.jpg",
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771408859929,
+        "modifiedTime": 1771409174658,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!3rQLOusvyPmAbvLn.P5n2Rb8KZsDejXZ5"
+    }
+  ],
+  "categories": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "NLQVhS9RJ3bE5C95": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771405999959,
+    "modifiedTime": 1771422567751,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!journal!3rQLOusvyPmAbvLn"
+}

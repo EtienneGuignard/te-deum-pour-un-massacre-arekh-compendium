@@ -1,0 +1,143 @@
+{
+  "folder": "X6kocsSsNMkfcFV7",
+  "name": "Notables",
+  "_id": "TXOaHUAHhi1zChGY",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Jacques de L'Aigle",
+      "type": "text",
+      "_id": "WfIkzm78LQ1gbw0r",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://gw.geneanet.org/sud52?lang=fr&amp;n=de+l+aigle+de+la+montagne&amp;p=jacques</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771420036350,
+        "modifiedTime": 1771420050762,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!TXOaHUAHhi1zChGY.WfIkzm78LQ1gbw0r"
+    },
+    {
+      "sort": 200000,
+      "name": "Nicolas de Clerget",
+      "type": "text",
+      "_id": "sW6sJQJwqfaxWBxe",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://man8rove.com/fr/profile/r2w1zmwo-nicolas-de-clerget</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771420489079,
+        "modifiedTime": 1771420497365,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!TXOaHUAHhi1zChGY.sW6sJQJwqfaxWBxe"
+    },
+    {
+      "sort": 300000,
+      "name": "François Petit",
+      "type": "text",
+      "_id": "3lWGCtjaYRAvxFqO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>https://man8rove.com/fr/profile/dgairp8yy-francois-petit</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "1Qex7fv2MlcSERSn": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1771420539150,
+        "modifiedTime": 1771420542336,
+        "lastModifiedBy": "1Qex7fv2MlcSERSn"
+      },
+      "_key": "!journal.pages!TXOaHUAHhi1zChGY.3lWGCtjaYRAvxFqO"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1Qex7fv2MlcSERSn": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1771420030449,
+    "modifiedTime": 1771420030449,
+    "lastModifiedBy": "1Qex7fv2MlcSERSn"
+  },
+  "_key": "!journal!TXOaHUAHhi1zChGY"
+}

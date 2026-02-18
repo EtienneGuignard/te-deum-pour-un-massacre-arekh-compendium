@@ -1,0 +1,65 @@
+{
+  "folder": "JC3uUAOw2fo5ljZP",
+  "name": "Jean de Tournes",
+  "_id": "cdidzHewThTHOUGu",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Biographie",
+      "type": "text",
+      "_id": "qLg7rxwLzWeBBWsF",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Imprimeur Lyonnais</p><p>https://fr.wikipedia.org/wiki/Jean_de_Tournes_(p%C3%A8re)</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "wbw2Dphh52Y6u0xe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "fvtt-te-deum",
+        "systemVersion": "13.0.12",
+        "createdTime": 1770739008907,
+        "modifiedTime": 1770739031780,
+        "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+      },
+      "_key": "!journal.pages!cdidzHewThTHOUGu.qLg7rxwLzWeBBWsF"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "wbw2Dphh52Y6u0xe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "fvtt-te-deum",
+    "systemVersion": "13.0.12",
+    "createdTime": 1770738999899,
+    "modifiedTime": 1770738999899,
+    "lastModifiedBy": "wbw2Dphh52Y6u0xe"
+  },
+  "_key": "!journal!cdidzHewThTHOUGu"
+}
